@@ -1,0 +1,66 @@
+debug: false
+
+info:
+  app: StattAuto Schufa Dummy
+  author: Hermann Woock
+  created: 12.04.2023
+
+server:
+  port: 8091
+
+  
+spring:
+  datasource:
+    url: jdbc:h2:mem:testdb
+    username: sa
+    password: 
+  h2:
+    console:
+      enabled: true
+      settings:
+        trace: true
+        web-allow-others: true
+  jpa:
+    database-platform: org.hibernate.dialect.H2Dialect
+    hibernate:
+      ddl-auto: create
+    show-sql: false
+  application:
+    name: Schufa
+  mvc:
+    log-request-details: false
+  main:
+    allow-bean-definition-overriding: true
+  rabbitmq:
+    host: rabbitmq
+    port: 5672
+    username: guest
+    password: guest
+    
+management:
+  endpoints:
+    enabled-by-default: true
+    web:
+      exposure:
+        include: "*"
+  endpoint:
+    info:
+      enabled: true
+    env:
+      enabled: true
+    health:
+      probes:
+        enabled: true 
+      show-details: always
+      show-components: always
+
+logging:
+  file:
+    name: stattauto.log
+    path: c:/logs
+    clean-history-on-start: true
+  level: 
+    root: error
+    '[org.springframework.web]': error
+    '[org.springframework.security]': error
+    '[de.woock]': debug      

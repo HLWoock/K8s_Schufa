@@ -1,0 +1,1285 @@
+2023-04-19T18:22:07.270+02:00  INFO 6636 --- [restartedMain] de.woock.SchufaApp                       : Starting SchufaApp using Java 17.0.5 with PID 6636 (C:\Users\Hermannw\Documents\workspaces\workspace-spring-tool-suite-4-4.17.0.RELEASE\K8s_Schufa\bin\main started by HermannW in C:\Users\Hermannw\Documents\workspaces\workspace-spring-tool-suite-4-4.17.0.RELEASE\K8s_Schufa)
+2023-04-19T18:22:07.274+02:00 DEBUG 6636 --- [restartedMain] de.woock.SchufaApp                       : Running with Spring Boot v3.0.5, Spring v6.0.7
+2023-04-19T18:22:07.275+02:00  INFO 6636 --- [restartedMain] de.woock.SchufaApp                       : No active profile set, falling back to 1 default profile: "default"
+2023-04-19T18:22:10.145+02:00  INFO 6636 --- [scheduling-1] de.woock.service.CheckService            : suche nach Auftraegen...
+2023-04-19T18:22:10.146+02:00  INFO 6636 --- [restartedMain] de.woock.SchufaApp                       : Started SchufaApp in 3.202 seconds (process running for 3.744)
+2023-04-19T18:22:21.521+02:00  INFO 18316 --- [restartedMain] de.woock.SchufaApp                       : Starting SchufaApp using Java 17.0.5 with PID 18316 (C:\Users\Hermannw\Documents\workspaces\workspace-spring-tool-suite-4-4.17.0.RELEASE\K8s_Schufa\bin\main started by HermannW in C:\Users\Hermannw\Documents\workspaces\workspace-spring-tool-suite-4-4.17.0.RELEASE\K8s_Schufa)
+2023-04-19T18:22:21.522+02:00 DEBUG 18316 --- [restartedMain] de.woock.SchufaApp                       : Running with Spring Boot v3.0.5, Spring v6.0.7
+2023-04-19T18:22:21.523+02:00  INFO 18316 --- [restartedMain] de.woock.SchufaApp                       : No active profile set, falling back to 1 default profile: "default"
+2023-04-19T18:22:24.358+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : suche nach Auftraegen...
+2023-04-19T18:22:24.359+02:00  INFO 18316 --- [restartedMain] de.woock.SchufaApp                       : Started SchufaApp in 3.154 seconds (process running for 3.66)
+2023-04-19T18:23:02.134+02:00  INFO 18316 --- [http-nio-8091-exec-1] d.woock.controller.SchufaRESTController  : Anfrage für DeHänlein886 eingegangen
+2023-04-19T18:23:02.135+02:00  INFO 18316 --- [http-nio-8091-exec-1] de.woock.service.SchufaService           : bearbeite Anfrage fuer DeHänlein886
+2023-04-19T18:23:02.135+02:00  INFO 18316 --- [http-nio-8091-exec-1] de.woock.service.SchufaService           : speicher Anfrage für DeHänlein886
+2023-04-19T18:23:02.183+02:00  INFO 18316 --- [http-nio-8091-exec-3] d.woock.controller.SchufaRESTController  : Anfrage für HiTeuber734 eingegangen
+2023-04-19T18:23:02.183+02:00  INFO 18316 --- [http-nio-8091-exec-3] de.woock.service.SchufaService           : bearbeite Anfrage fuer HiTeuber734
+2023-04-19T18:23:02.183+02:00  INFO 18316 --- [http-nio-8091-exec-3] de.woock.service.SchufaService           : speicher Anfrage für HiTeuber734
+2023-04-19T18:23:02.190+02:00  INFO 18316 --- [http-nio-8091-exec-2] d.woock.controller.SchufaRESTController  : Anfrage für CäAndres942 eingegangen
+2023-04-19T18:23:02.191+02:00  INFO 18316 --- [http-nio-8091-exec-2] de.woock.service.SchufaService           : bearbeite Anfrage fuer CäAndres942
+2023-04-19T18:23:02.191+02:00  INFO 18316 --- [http-nio-8091-exec-2] de.woock.service.SchufaService           : speicher Anfrage für CäAndres942
+2023-04-19T18:23:02.197+02:00  INFO 18316 --- [http-nio-8091-exec-4] d.woock.controller.SchufaRESTController  : Anfrage für KaLäcking34 eingegangen
+2023-04-19T18:23:02.197+02:00  INFO 18316 --- [http-nio-8091-exec-4] de.woock.service.SchufaService           : bearbeite Anfrage fuer KaLäcking34
+2023-04-19T18:23:02.198+02:00  INFO 18316 --- [http-nio-8091-exec-4] de.woock.service.SchufaService           : speicher Anfrage für KaLäcking34
+2023-04-19T18:23:02.205+02:00  INFO 18316 --- [http-nio-8091-exec-5] d.woock.controller.SchufaRESTController  : Anfrage für ToWenzel965 eingegangen
+2023-04-19T18:23:02.205+02:00  INFO 18316 --- [http-nio-8091-exec-5] de.woock.service.SchufaService           : bearbeite Anfrage fuer ToWenzel965
+2023-04-19T18:23:02.205+02:00  INFO 18316 --- [http-nio-8091-exec-5] de.woock.service.SchufaService           : speicher Anfrage für ToWenzel965
+2023-04-19T18:23:02.213+02:00  INFO 18316 --- [http-nio-8091-exec-6] d.woock.controller.SchufaRESTController  : Anfrage für FlFranz324 eingegangen
+2023-04-19T18:23:02.213+02:00  INFO 18316 --- [http-nio-8091-exec-6] de.woock.service.SchufaService           : bearbeite Anfrage fuer FlFranz324
+2023-04-19T18:23:02.213+02:00  INFO 18316 --- [http-nio-8091-exec-6] de.woock.service.SchufaService           : speicher Anfrage für FlFranz324
+2023-04-19T18:23:02.220+02:00  INFO 18316 --- [http-nio-8091-exec-7] d.woock.controller.SchufaRESTController  : Anfrage für MoSemper766 eingegangen
+2023-04-19T18:23:02.220+02:00  INFO 18316 --- [http-nio-8091-exec-7] de.woock.service.SchufaService           : bearbeite Anfrage fuer MoSemper766
+2023-04-19T18:23:02.220+02:00  INFO 18316 --- [http-nio-8091-exec-7] de.woock.service.SchufaService           : speicher Anfrage für MoSemper766
+2023-04-19T18:23:02.227+02:00  INFO 18316 --- [http-nio-8091-exec-8] d.woock.controller.SchufaRESTController  : Anfrage für AnLeber535 eingegangen
+2023-04-19T18:23:02.227+02:00  INFO 18316 --- [http-nio-8091-exec-8] de.woock.service.SchufaService           : bearbeite Anfrage fuer AnLeber535
+2023-04-19T18:23:02.227+02:00  INFO 18316 --- [http-nio-8091-exec-8] de.woock.service.SchufaService           : speicher Anfrage für AnLeber535
+2023-04-19T18:23:02.235+02:00  INFO 18316 --- [http-nio-8091-exec-10] d.woock.controller.SchufaRESTController  : Anfrage für GeGötz807 eingegangen
+2023-04-19T18:23:02.235+02:00  INFO 18316 --- [http-nio-8091-exec-10] de.woock.service.SchufaService           : bearbeite Anfrage fuer GeGötz807
+2023-04-19T18:23:02.235+02:00  INFO 18316 --- [http-nio-8091-exec-10] de.woock.service.SchufaService           : speicher Anfrage für GeGötz807
+2023-04-19T18:23:02.242+02:00  INFO 18316 --- [http-nio-8091-exec-9] d.woock.controller.SchufaRESTController  : Anfrage für XaFehling74 eingegangen
+2023-04-19T18:23:02.242+02:00  INFO 18316 --- [http-nio-8091-exec-9] de.woock.service.SchufaService           : bearbeite Anfrage fuer XaFehling74
+2023-04-19T18:23:02.242+02:00  INFO 18316 --- [http-nio-8091-exec-9] de.woock.service.SchufaService           : speicher Anfrage für XaFehling74
+2023-04-19T18:23:24.364+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : suche nach Auftraegen...
+2023-04-19T18:23:24.372+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : berechne Bonitaet für DeHänlein886
+2023-04-19T18:23:24.373+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : Bonitaet für DeHänlein886: SCHLECHT
+2023-04-19T18:23:24.373+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : sende Anwort für DeHänlein886
+2023-04-19T18:23:26.660+02:00 ERROR 18316 --- [scheduling-1] o.s.s.s.TaskUtils$LoggingErrorHandler    : Unexpected error occurred in scheduled task
+
+org.springframework.amqp.AmqpIOException: java.net.UnknownHostException: Der angegebene Host ist unbekannt (rabbitmq)
+	at org.springframework.amqp.rabbit.support.RabbitExceptionTranslator.convertRabbitAccessException(RabbitExceptionTranslator.java:70) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:594) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.CachingConnectionFactory.createConnection(CachingConnectionFactory.java:687) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.ConnectionFactoryUtils.createConnection(ConnectionFactoryUtils.java:257) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.doExecute(RabbitTemplate.java:2225) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.execute(RabbitTemplate.java:2198) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.send(RabbitTemplate.java:1119) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.convertAndSend(RabbitTemplate.java:1182) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.convertAndSend(RabbitTemplate.java:1175) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at de.woock.service.SchufaService.sendeAntwort(SchufaService.java:32) ~[main/:na]
+	at de.woock.service.CheckService.lambda$0(CheckService.java:32) ~[main/:na]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) ~[na:na]
+	at de.woock.service.CheckService.bearbeiteAuftraege(CheckService.java:26) ~[main/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84) ~[spring-context-6.0.7.jar:6.0.7]
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54) ~[spring-context-6.0.7.jar:6.0.7]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[na:na]
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305) ~[na:na]
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[na:na]
+	at java.base/java.lang.Thread.run(Thread.java:833) ~[na:na]
+Caused by: java.net.UnknownHostException: Der angegebene Host ist unbekannt (rabbitmq)
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method) ~[na:na]
+	at java.base/java.net.InetAddress$PlatformNameService.lookupAllHostAddr(InetAddress.java:933) ~[na:na]
+	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1529) ~[na:na]
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:852) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1519) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1377) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1305) ~[na:na]
+	at com.rabbitmq.client.DnsRecordIpAddressResolver.resolveIpAddresses(DnsRecordIpAddressResolver.java:83) ~[amqp-client-5.16.0.jar:5.16.0]
+	at com.rabbitmq.client.DnsRecordIpAddressResolver.getAddresses(DnsRecordIpAddressResolver.java:73) ~[amqp-client-5.16.0.jar:5.16.0]
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:1219) ~[amqp-client-5.16.0.jar:5.16.0]
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:1173) ~[amqp-client-5.16.0.jar:5.16.0]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.connectAddresses(AbstractConnectionFactory.java:632) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.connect(AbstractConnectionFactory.java:607) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:557) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	... 23 common frames omitted
+
+2023-04-19T18:24:24.357+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : suche nach Auftraegen...
+2023-04-19T18:24:24.360+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : berechne Bonitaet für DeHänlein886
+2023-04-19T18:24:24.360+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : Bonitaet für DeHänlein886: SCHLECHT
+2023-04-19T18:24:24.361+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : sende Anwort für DeHänlein886
+2023-04-19T18:24:26.659+02:00 ERROR 18316 --- [scheduling-1] o.s.s.s.TaskUtils$LoggingErrorHandler    : Unexpected error occurred in scheduled task
+
+org.springframework.amqp.AmqpIOException: java.net.UnknownHostException: Der angegebene Host ist unbekannt (rabbitmq)
+	at org.springframework.amqp.rabbit.support.RabbitExceptionTranslator.convertRabbitAccessException(RabbitExceptionTranslator.java:70) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:594) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.CachingConnectionFactory.createConnection(CachingConnectionFactory.java:687) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.ConnectionFactoryUtils.createConnection(ConnectionFactoryUtils.java:257) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.doExecute(RabbitTemplate.java:2225) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.execute(RabbitTemplate.java:2198) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.send(RabbitTemplate.java:1119) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.convertAndSend(RabbitTemplate.java:1182) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.convertAndSend(RabbitTemplate.java:1175) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at de.woock.service.SchufaService.sendeAntwort(SchufaService.java:32) ~[main/:na]
+	at de.woock.service.CheckService.lambda$0(CheckService.java:32) ~[main/:na]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) ~[na:na]
+	at de.woock.service.CheckService.bearbeiteAuftraege(CheckService.java:26) ~[main/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84) ~[spring-context-6.0.7.jar:6.0.7]
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54) ~[spring-context-6.0.7.jar:6.0.7]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[na:na]
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305) ~[na:na]
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[na:na]
+	at java.base/java.lang.Thread.run(Thread.java:833) ~[na:na]
+Caused by: java.net.UnknownHostException: Der angegebene Host ist unbekannt (rabbitmq)
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method) ~[na:na]
+	at java.base/java.net.InetAddress$PlatformNameService.lookupAllHostAddr(InetAddress.java:933) ~[na:na]
+	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1529) ~[na:na]
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:852) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1519) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1377) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1305) ~[na:na]
+	at com.rabbitmq.client.DnsRecordIpAddressResolver.resolveIpAddresses(DnsRecordIpAddressResolver.java:83) ~[amqp-client-5.16.0.jar:5.16.0]
+	at com.rabbitmq.client.DnsRecordIpAddressResolver.getAddresses(DnsRecordIpAddressResolver.java:73) ~[amqp-client-5.16.0.jar:5.16.0]
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:1219) ~[amqp-client-5.16.0.jar:5.16.0]
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:1173) ~[amqp-client-5.16.0.jar:5.16.0]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.connectAddresses(AbstractConnectionFactory.java:632) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.connect(AbstractConnectionFactory.java:607) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:557) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	... 23 common frames omitted
+
+2023-04-19T18:25:07.239+02:00  INFO 18316 --- [http-nio-8091-exec-3] d.woock.controller.SchufaRESTController  : Anfrage für HaSchmitt237 eingegangen
+2023-04-19T18:25:07.240+02:00  INFO 18316 --- [http-nio-8091-exec-3] de.woock.service.SchufaService           : bearbeite Anfrage fuer HaSchmitt237
+2023-04-19T18:25:07.240+02:00  INFO 18316 --- [http-nio-8091-exec-3] de.woock.service.SchufaService           : speicher Anfrage für HaSchmitt237
+2023-04-19T18:25:07.249+02:00  INFO 18316 --- [http-nio-8091-exec-2] d.woock.controller.SchufaRESTController  : Anfrage für CoBröhlmeier1 eingegangen
+2023-04-19T18:25:07.250+02:00  INFO 18316 --- [http-nio-8091-exec-2] de.woock.service.SchufaService           : bearbeite Anfrage fuer CoBröhlmeier1
+2023-04-19T18:25:07.250+02:00  INFO 18316 --- [http-nio-8091-exec-2] de.woock.service.SchufaService           : speicher Anfrage für CoBröhlmeier1
+2023-04-19T18:25:07.258+02:00  INFO 18316 --- [http-nio-8091-exec-4] d.woock.controller.SchufaRESTController  : Anfrage für FlAbraham993 eingegangen
+2023-04-19T18:25:07.258+02:00  INFO 18316 --- [http-nio-8091-exec-4] de.woock.service.SchufaService           : bearbeite Anfrage fuer FlAbraham993
+2023-04-19T18:25:07.258+02:00  INFO 18316 --- [http-nio-8091-exec-4] de.woock.service.SchufaService           : speicher Anfrage für FlAbraham993
+2023-04-19T18:25:07.266+02:00  INFO 18316 --- [http-nio-8091-exec-5] d.woock.controller.SchufaRESTController  : Anfrage für FrKröger574 eingegangen
+2023-04-19T18:25:07.266+02:00  INFO 18316 --- [http-nio-8091-exec-5] de.woock.service.SchufaService           : bearbeite Anfrage fuer FrKröger574
+2023-04-19T18:25:07.266+02:00  INFO 18316 --- [http-nio-8091-exec-5] de.woock.service.SchufaService           : speicher Anfrage für FrKröger574
+2023-04-19T18:25:07.273+02:00  INFO 18316 --- [http-nio-8091-exec-6] d.woock.controller.SchufaRESTController  : Anfrage für KaThoma46 eingegangen
+2023-04-19T18:25:07.274+02:00  INFO 18316 --- [http-nio-8091-exec-6] de.woock.service.SchufaService           : bearbeite Anfrage fuer KaThoma46
+2023-04-19T18:25:07.274+02:00  INFO 18316 --- [http-nio-8091-exec-6] de.woock.service.SchufaService           : speicher Anfrage für KaThoma46
+2023-04-19T18:25:07.282+02:00  INFO 18316 --- [http-nio-8091-exec-7] d.woock.controller.SchufaRESTController  : Anfrage für KeSchäfer130 eingegangen
+2023-04-19T18:25:07.282+02:00  INFO 18316 --- [http-nio-8091-exec-7] de.woock.service.SchufaService           : bearbeite Anfrage fuer KeSchäfer130
+2023-04-19T18:25:07.282+02:00  INFO 18316 --- [http-nio-8091-exec-7] de.woock.service.SchufaService           : speicher Anfrage für KeSchäfer130
+2023-04-19T18:25:07.290+02:00  INFO 18316 --- [http-nio-8091-exec-8] d.woock.controller.SchufaRESTController  : Anfrage für AdAppel541 eingegangen
+2023-04-19T18:25:07.290+02:00  INFO 18316 --- [http-nio-8091-exec-8] de.woock.service.SchufaService           : bearbeite Anfrage fuer AdAppel541
+2023-04-19T18:25:07.290+02:00  INFO 18316 --- [http-nio-8091-exec-8] de.woock.service.SchufaService           : speicher Anfrage für AdAppel541
+2023-04-19T18:25:07.297+02:00  INFO 18316 --- [http-nio-8091-exec-10] d.woock.controller.SchufaRESTController  : Anfrage für ThKolmar373 eingegangen
+2023-04-19T18:25:07.297+02:00  INFO 18316 --- [http-nio-8091-exec-10] de.woock.service.SchufaService           : bearbeite Anfrage fuer ThKolmar373
+2023-04-19T18:25:07.297+02:00  INFO 18316 --- [http-nio-8091-exec-10] de.woock.service.SchufaService           : speicher Anfrage für ThKolmar373
+2023-04-19T18:25:07.307+02:00  INFO 18316 --- [http-nio-8091-exec-9] d.woock.controller.SchufaRESTController  : Anfrage für WoJung242 eingegangen
+2023-04-19T18:25:07.307+02:00  INFO 18316 --- [http-nio-8091-exec-9] de.woock.service.SchufaService           : bearbeite Anfrage fuer WoJung242
+2023-04-19T18:25:07.307+02:00  INFO 18316 --- [http-nio-8091-exec-9] de.woock.service.SchufaService           : speicher Anfrage für WoJung242
+2023-04-19T18:25:07.314+02:00  INFO 18316 --- [http-nio-8091-exec-1] d.woock.controller.SchufaRESTController  : Anfrage für JuFreund938 eingegangen
+2023-04-19T18:25:07.315+02:00  INFO 18316 --- [http-nio-8091-exec-1] de.woock.service.SchufaService           : bearbeite Anfrage fuer JuFreund938
+2023-04-19T18:25:07.315+02:00  INFO 18316 --- [http-nio-8091-exec-1] de.woock.service.SchufaService           : speicher Anfrage für JuFreund938
+2023-04-19T18:25:24.357+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : suche nach Auftraegen...
+2023-04-19T18:25:24.360+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : berechne Bonitaet für DeHänlein886
+2023-04-19T18:25:24.360+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : Bonitaet für DeHänlein886: SCHLECHT
+2023-04-19T18:25:24.360+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : sende Anwort für DeHänlein886
+2023-04-19T18:25:26.647+02:00 ERROR 18316 --- [scheduling-1] o.s.s.s.TaskUtils$LoggingErrorHandler    : Unexpected error occurred in scheduled task
+
+org.springframework.amqp.AmqpIOException: java.net.UnknownHostException: Der angegebene Host ist unbekannt (rabbitmq)
+	at org.springframework.amqp.rabbit.support.RabbitExceptionTranslator.convertRabbitAccessException(RabbitExceptionTranslator.java:70) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:594) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.CachingConnectionFactory.createConnection(CachingConnectionFactory.java:687) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.ConnectionFactoryUtils.createConnection(ConnectionFactoryUtils.java:257) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.doExecute(RabbitTemplate.java:2225) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.execute(RabbitTemplate.java:2198) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.send(RabbitTemplate.java:1119) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.convertAndSend(RabbitTemplate.java:1182) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.convertAndSend(RabbitTemplate.java:1175) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at de.woock.service.SchufaService.sendeAntwort(SchufaService.java:32) ~[main/:na]
+	at de.woock.service.CheckService.lambda$0(CheckService.java:32) ~[main/:na]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) ~[na:na]
+	at de.woock.service.CheckService.bearbeiteAuftraege(CheckService.java:26) ~[main/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84) ~[spring-context-6.0.7.jar:6.0.7]
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54) ~[spring-context-6.0.7.jar:6.0.7]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[na:na]
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305) ~[na:na]
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[na:na]
+	at java.base/java.lang.Thread.run(Thread.java:833) ~[na:na]
+Caused by: java.net.UnknownHostException: Der angegebene Host ist unbekannt (rabbitmq)
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method) ~[na:na]
+	at java.base/java.net.InetAddress$PlatformNameService.lookupAllHostAddr(InetAddress.java:933) ~[na:na]
+	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1529) ~[na:na]
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:852) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1519) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1377) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1305) ~[na:na]
+	at com.rabbitmq.client.DnsRecordIpAddressResolver.resolveIpAddresses(DnsRecordIpAddressResolver.java:83) ~[amqp-client-5.16.0.jar:5.16.0]
+	at com.rabbitmq.client.DnsRecordIpAddressResolver.getAddresses(DnsRecordIpAddressResolver.java:73) ~[amqp-client-5.16.0.jar:5.16.0]
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:1219) ~[amqp-client-5.16.0.jar:5.16.0]
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:1173) ~[amqp-client-5.16.0.jar:5.16.0]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.connectAddresses(AbstractConnectionFactory.java:632) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.connect(AbstractConnectionFactory.java:607) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:557) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	... 23 common frames omitted
+
+2023-04-19T18:26:24.366+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : suche nach Auftraegen...
+2023-04-19T18:26:24.372+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : berechne Bonitaet für DeHänlein886
+2023-04-19T18:26:24.372+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : Bonitaet für DeHänlein886: SCHLECHT
+2023-04-19T18:26:24.372+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : sende Anwort für DeHänlein886
+2023-04-19T18:26:26.656+02:00 ERROR 18316 --- [scheduling-1] o.s.s.s.TaskUtils$LoggingErrorHandler    : Unexpected error occurred in scheduled task
+
+org.springframework.amqp.AmqpIOException: java.net.UnknownHostException: Der angegebene Host ist unbekannt (rabbitmq)
+	at org.springframework.amqp.rabbit.support.RabbitExceptionTranslator.convertRabbitAccessException(RabbitExceptionTranslator.java:70) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:594) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.CachingConnectionFactory.createConnection(CachingConnectionFactory.java:687) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.ConnectionFactoryUtils.createConnection(ConnectionFactoryUtils.java:257) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.doExecute(RabbitTemplate.java:2225) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.execute(RabbitTemplate.java:2198) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.send(RabbitTemplate.java:1119) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.convertAndSend(RabbitTemplate.java:1182) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.convertAndSend(RabbitTemplate.java:1175) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at de.woock.service.SchufaService.sendeAntwort(SchufaService.java:32) ~[main/:na]
+	at de.woock.service.CheckService.lambda$0(CheckService.java:32) ~[main/:na]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) ~[na:na]
+	at de.woock.service.CheckService.bearbeiteAuftraege(CheckService.java:26) ~[main/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84) ~[spring-context-6.0.7.jar:6.0.7]
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54) ~[spring-context-6.0.7.jar:6.0.7]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[na:na]
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305) ~[na:na]
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[na:na]
+	at java.base/java.lang.Thread.run(Thread.java:833) ~[na:na]
+Caused by: java.net.UnknownHostException: Der angegebene Host ist unbekannt (rabbitmq)
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method) ~[na:na]
+	at java.base/java.net.InetAddress$PlatformNameService.lookupAllHostAddr(InetAddress.java:933) ~[na:na]
+	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1529) ~[na:na]
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:852) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1519) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1377) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1305) ~[na:na]
+	at com.rabbitmq.client.DnsRecordIpAddressResolver.resolveIpAddresses(DnsRecordIpAddressResolver.java:83) ~[amqp-client-5.16.0.jar:5.16.0]
+	at com.rabbitmq.client.DnsRecordIpAddressResolver.getAddresses(DnsRecordIpAddressResolver.java:73) ~[amqp-client-5.16.0.jar:5.16.0]
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:1219) ~[amqp-client-5.16.0.jar:5.16.0]
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:1173) ~[amqp-client-5.16.0.jar:5.16.0]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.connectAddresses(AbstractConnectionFactory.java:632) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.connect(AbstractConnectionFactory.java:607) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:557) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	... 23 common frames omitted
+
+2023-04-19T18:27:24.358+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : suche nach Auftraegen...
+2023-04-19T18:27:24.360+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : berechne Bonitaet für DeHänlein886
+2023-04-19T18:27:24.360+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : Bonitaet für DeHänlein886: SEHR_GUT
+2023-04-19T18:27:24.361+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : sende Anwort für DeHänlein886
+2023-04-19T18:27:26.635+02:00 ERROR 18316 --- [scheduling-1] o.s.s.s.TaskUtils$LoggingErrorHandler    : Unexpected error occurred in scheduled task
+
+org.springframework.amqp.AmqpIOException: java.net.UnknownHostException: Der angegebene Host ist unbekannt (rabbitmq)
+	at org.springframework.amqp.rabbit.support.RabbitExceptionTranslator.convertRabbitAccessException(RabbitExceptionTranslator.java:70) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:594) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.CachingConnectionFactory.createConnection(CachingConnectionFactory.java:687) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.ConnectionFactoryUtils.createConnection(ConnectionFactoryUtils.java:257) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.doExecute(RabbitTemplate.java:2225) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.execute(RabbitTemplate.java:2198) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.send(RabbitTemplate.java:1119) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.convertAndSend(RabbitTemplate.java:1182) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.convertAndSend(RabbitTemplate.java:1175) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at de.woock.service.SchufaService.sendeAntwort(SchufaService.java:32) ~[main/:na]
+	at de.woock.service.CheckService.lambda$0(CheckService.java:32) ~[main/:na]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) ~[na:na]
+	at de.woock.service.CheckService.bearbeiteAuftraege(CheckService.java:26) ~[main/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84) ~[spring-context-6.0.7.jar:6.0.7]
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54) ~[spring-context-6.0.7.jar:6.0.7]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[na:na]
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305) ~[na:na]
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[na:na]
+	at java.base/java.lang.Thread.run(Thread.java:833) ~[na:na]
+Caused by: java.net.UnknownHostException: Der angegebene Host ist unbekannt (rabbitmq)
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method) ~[na:na]
+	at java.base/java.net.InetAddress$PlatformNameService.lookupAllHostAddr(InetAddress.java:933) ~[na:na]
+	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1529) ~[na:na]
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:852) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1519) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1377) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1305) ~[na:na]
+	at com.rabbitmq.client.DnsRecordIpAddressResolver.resolveIpAddresses(DnsRecordIpAddressResolver.java:83) ~[amqp-client-5.16.0.jar:5.16.0]
+	at com.rabbitmq.client.DnsRecordIpAddressResolver.getAddresses(DnsRecordIpAddressResolver.java:73) ~[amqp-client-5.16.0.jar:5.16.0]
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:1219) ~[amqp-client-5.16.0.jar:5.16.0]
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:1173) ~[amqp-client-5.16.0.jar:5.16.0]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.connectAddresses(AbstractConnectionFactory.java:632) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.connect(AbstractConnectionFactory.java:607) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:557) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	... 23 common frames omitted
+
+2023-04-19T18:28:01.994+02:00  INFO 18316 --- [http-nio-8091-exec-2] d.woock.controller.SchufaRESTController  : Anfrage für NaMeyer773 eingegangen
+2023-04-19T18:28:01.994+02:00  INFO 18316 --- [http-nio-8091-exec-2] de.woock.service.SchufaService           : bearbeite Anfrage fuer NaMeyer773
+2023-04-19T18:28:01.994+02:00  INFO 18316 --- [http-nio-8091-exec-2] de.woock.service.SchufaService           : speicher Anfrage für NaMeyer773
+2023-04-19T18:28:02.002+02:00  INFO 18316 --- [http-nio-8091-exec-4] d.woock.controller.SchufaRESTController  : Anfrage für CoHackmann734 eingegangen
+2023-04-19T18:28:02.003+02:00  INFO 18316 --- [http-nio-8091-exec-4] de.woock.service.SchufaService           : bearbeite Anfrage fuer CoHackmann734
+2023-04-19T18:28:02.003+02:00  INFO 18316 --- [http-nio-8091-exec-4] de.woock.service.SchufaService           : speicher Anfrage für CoHackmann734
+2023-04-19T18:28:02.011+02:00  INFO 18316 --- [http-nio-8091-exec-5] d.woock.controller.SchufaRESTController  : Anfrage für AnHaller724 eingegangen
+2023-04-19T18:28:02.011+02:00  INFO 18316 --- [http-nio-8091-exec-5] de.woock.service.SchufaService           : bearbeite Anfrage fuer AnHaller724
+2023-04-19T18:28:02.011+02:00  INFO 18316 --- [http-nio-8091-exec-5] de.woock.service.SchufaService           : speicher Anfrage für AnHaller724
+2023-04-19T18:28:02.018+02:00  INFO 18316 --- [http-nio-8091-exec-6] d.woock.controller.SchufaRESTController  : Anfrage für FrHoffmann695 eingegangen
+2023-04-19T18:28:02.018+02:00  INFO 18316 --- [http-nio-8091-exec-6] de.woock.service.SchufaService           : bearbeite Anfrage fuer FrHoffmann695
+2023-04-19T18:28:02.018+02:00  INFO 18316 --- [http-nio-8091-exec-6] de.woock.service.SchufaService           : speicher Anfrage für FrHoffmann695
+2023-04-19T18:28:02.025+02:00  INFO 18316 --- [http-nio-8091-exec-7] d.woock.controller.SchufaRESTController  : Anfrage für ThKaiser937 eingegangen
+2023-04-19T18:28:02.025+02:00  INFO 18316 --- [http-nio-8091-exec-7] de.woock.service.SchufaService           : bearbeite Anfrage fuer ThKaiser937
+2023-04-19T18:28:02.025+02:00  INFO 18316 --- [http-nio-8091-exec-7] de.woock.service.SchufaService           : speicher Anfrage für ThKaiser937
+2023-04-19T18:28:02.032+02:00  INFO 18316 --- [http-nio-8091-exec-8] d.woock.controller.SchufaRESTController  : Anfrage für KlWidera745 eingegangen
+2023-04-19T18:28:02.032+02:00  INFO 18316 --- [http-nio-8091-exec-8] de.woock.service.SchufaService           : bearbeite Anfrage fuer KlWidera745
+2023-04-19T18:28:02.032+02:00  INFO 18316 --- [http-nio-8091-exec-8] de.woock.service.SchufaService           : speicher Anfrage für KlWidera745
+2023-04-19T18:28:02.040+02:00  INFO 18316 --- [http-nio-8091-exec-10] d.woock.controller.SchufaRESTController  : Anfrage für MaWolff989 eingegangen
+2023-04-19T18:28:02.040+02:00  INFO 18316 --- [http-nio-8091-exec-10] de.woock.service.SchufaService           : bearbeite Anfrage fuer MaWolff989
+2023-04-19T18:28:02.040+02:00  INFO 18316 --- [http-nio-8091-exec-10] de.woock.service.SchufaService           : speicher Anfrage für MaWolff989
+2023-04-19T18:28:02.047+02:00  INFO 18316 --- [http-nio-8091-exec-9] d.woock.controller.SchufaRESTController  : Anfrage für BeKrämer91 eingegangen
+2023-04-19T18:28:02.047+02:00  INFO 18316 --- [http-nio-8091-exec-9] de.woock.service.SchufaService           : bearbeite Anfrage fuer BeKrämer91
+2023-04-19T18:28:02.047+02:00  INFO 18316 --- [http-nio-8091-exec-9] de.woock.service.SchufaService           : speicher Anfrage für BeKrämer91
+2023-04-19T18:28:02.054+02:00  INFO 18316 --- [http-nio-8091-exec-1] d.woock.controller.SchufaRESTController  : Anfrage für LoSchnurre834 eingegangen
+2023-04-19T18:28:02.054+02:00  INFO 18316 --- [http-nio-8091-exec-1] de.woock.service.SchufaService           : bearbeite Anfrage fuer LoSchnurre834
+2023-04-19T18:28:02.054+02:00  INFO 18316 --- [http-nio-8091-exec-1] de.woock.service.SchufaService           : speicher Anfrage für LoSchnurre834
+2023-04-19T18:28:02.060+02:00  INFO 18316 --- [http-nio-8091-exec-3] d.woock.controller.SchufaRESTController  : Anfrage für GöLorenz755 eingegangen
+2023-04-19T18:28:02.060+02:00  INFO 18316 --- [http-nio-8091-exec-3] de.woock.service.SchufaService           : bearbeite Anfrage fuer GöLorenz755
+2023-04-19T18:28:02.060+02:00  INFO 18316 --- [http-nio-8091-exec-3] de.woock.service.SchufaService           : speicher Anfrage für GöLorenz755
+2023-04-19T18:28:24.370+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : suche nach Auftraegen...
+2023-04-19T18:28:24.377+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : berechne Bonitaet für DeHänlein886
+2023-04-19T18:28:24.377+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : Bonitaet für DeHänlein886: GUT
+2023-04-19T18:28:24.377+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : sende Anwort für DeHänlein886
+2023-04-19T18:28:26.667+02:00 ERROR 18316 --- [scheduling-1] o.s.s.s.TaskUtils$LoggingErrorHandler    : Unexpected error occurred in scheduled task
+
+org.springframework.amqp.AmqpIOException: java.net.UnknownHostException: Der angegebene Host ist unbekannt (rabbitmq)
+	at org.springframework.amqp.rabbit.support.RabbitExceptionTranslator.convertRabbitAccessException(RabbitExceptionTranslator.java:70) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:594) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.CachingConnectionFactory.createConnection(CachingConnectionFactory.java:687) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.ConnectionFactoryUtils.createConnection(ConnectionFactoryUtils.java:257) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.doExecute(RabbitTemplate.java:2225) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.execute(RabbitTemplate.java:2198) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.send(RabbitTemplate.java:1119) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.convertAndSend(RabbitTemplate.java:1182) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.convertAndSend(RabbitTemplate.java:1175) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at de.woock.service.SchufaService.sendeAntwort(SchufaService.java:32) ~[main/:na]
+	at de.woock.service.CheckService.lambda$0(CheckService.java:32) ~[main/:na]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) ~[na:na]
+	at de.woock.service.CheckService.bearbeiteAuftraege(CheckService.java:26) ~[main/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84) ~[spring-context-6.0.7.jar:6.0.7]
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54) ~[spring-context-6.0.7.jar:6.0.7]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[na:na]
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305) ~[na:na]
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[na:na]
+	at java.base/java.lang.Thread.run(Thread.java:833) ~[na:na]
+Caused by: java.net.UnknownHostException: Der angegebene Host ist unbekannt (rabbitmq)
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method) ~[na:na]
+	at java.base/java.net.InetAddress$PlatformNameService.lookupAllHostAddr(InetAddress.java:933) ~[na:na]
+	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1529) ~[na:na]
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:852) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1519) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1377) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1305) ~[na:na]
+	at com.rabbitmq.client.DnsRecordIpAddressResolver.resolveIpAddresses(DnsRecordIpAddressResolver.java:83) ~[amqp-client-5.16.0.jar:5.16.0]
+	at com.rabbitmq.client.DnsRecordIpAddressResolver.getAddresses(DnsRecordIpAddressResolver.java:73) ~[amqp-client-5.16.0.jar:5.16.0]
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:1219) ~[amqp-client-5.16.0.jar:5.16.0]
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:1173) ~[amqp-client-5.16.0.jar:5.16.0]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.connectAddresses(AbstractConnectionFactory.java:632) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.connect(AbstractConnectionFactory.java:607) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:557) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	... 23 common frames omitted
+
+2023-04-19T18:29:24.364+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : suche nach Auftraegen...
+2023-04-19T18:29:24.367+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : berechne Bonitaet für DeHänlein886
+2023-04-19T18:29:24.367+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : Bonitaet für DeHänlein886: GUT
+2023-04-19T18:29:24.367+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : sende Anwort für DeHänlein886
+2023-04-19T18:29:26.652+02:00 ERROR 18316 --- [scheduling-1] o.s.s.s.TaskUtils$LoggingErrorHandler    : Unexpected error occurred in scheduled task
+
+org.springframework.amqp.AmqpIOException: java.net.UnknownHostException: Der angegebene Host ist unbekannt (rabbitmq)
+	at org.springframework.amqp.rabbit.support.RabbitExceptionTranslator.convertRabbitAccessException(RabbitExceptionTranslator.java:70) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:594) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.CachingConnectionFactory.createConnection(CachingConnectionFactory.java:687) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.ConnectionFactoryUtils.createConnection(ConnectionFactoryUtils.java:257) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.doExecute(RabbitTemplate.java:2225) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.execute(RabbitTemplate.java:2198) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.send(RabbitTemplate.java:1119) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.convertAndSend(RabbitTemplate.java:1182) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.convertAndSend(RabbitTemplate.java:1175) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at de.woock.service.SchufaService.sendeAntwort(SchufaService.java:32) ~[main/:na]
+	at de.woock.service.CheckService.lambda$0(CheckService.java:32) ~[main/:na]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) ~[na:na]
+	at de.woock.service.CheckService.bearbeiteAuftraege(CheckService.java:26) ~[main/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84) ~[spring-context-6.0.7.jar:6.0.7]
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54) ~[spring-context-6.0.7.jar:6.0.7]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[na:na]
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305) ~[na:na]
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[na:na]
+	at java.base/java.lang.Thread.run(Thread.java:833) ~[na:na]
+Caused by: java.net.UnknownHostException: Der angegebene Host ist unbekannt (rabbitmq)
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method) ~[na:na]
+	at java.base/java.net.InetAddress$PlatformNameService.lookupAllHostAddr(InetAddress.java:933) ~[na:na]
+	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1529) ~[na:na]
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:852) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1519) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1377) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1305) ~[na:na]
+	at com.rabbitmq.client.DnsRecordIpAddressResolver.resolveIpAddresses(DnsRecordIpAddressResolver.java:83) ~[amqp-client-5.16.0.jar:5.16.0]
+	at com.rabbitmq.client.DnsRecordIpAddressResolver.getAddresses(DnsRecordIpAddressResolver.java:73) ~[amqp-client-5.16.0.jar:5.16.0]
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:1219) ~[amqp-client-5.16.0.jar:5.16.0]
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:1173) ~[amqp-client-5.16.0.jar:5.16.0]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.connectAddresses(AbstractConnectionFactory.java:632) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.connect(AbstractConnectionFactory.java:607) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:557) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	... 23 common frames omitted
+
+2023-04-19T18:29:28.416+02:00  INFO 18316 --- [http-nio-8091-exec-4] d.woock.controller.SchufaRESTController  : Anfrage für FrDiederich170 eingegangen
+2023-04-19T18:29:28.417+02:00  INFO 18316 --- [http-nio-8091-exec-4] de.woock.service.SchufaService           : bearbeite Anfrage fuer FrDiederich170
+2023-04-19T18:29:28.417+02:00  INFO 18316 --- [http-nio-8091-exec-4] de.woock.service.SchufaService           : speicher Anfrage für FrDiederich170
+2023-04-19T18:29:28.426+02:00  INFO 18316 --- [http-nio-8091-exec-5] d.woock.controller.SchufaRESTController  : Anfrage für InPohl73 eingegangen
+2023-04-19T18:29:28.426+02:00  INFO 18316 --- [http-nio-8091-exec-5] de.woock.service.SchufaService           : bearbeite Anfrage fuer InPohl73
+2023-04-19T18:29:28.426+02:00  INFO 18316 --- [http-nio-8091-exec-5] de.woock.service.SchufaService           : speicher Anfrage für InPohl73
+2023-04-19T18:29:28.437+02:00  INFO 18316 --- [http-nio-8091-exec-6] d.woock.controller.SchufaRESTController  : Anfrage für NaSchnurr894 eingegangen
+2023-04-19T18:29:28.437+02:00  INFO 18316 --- [http-nio-8091-exec-6] de.woock.service.SchufaService           : bearbeite Anfrage fuer NaSchnurr894
+2023-04-19T18:29:28.438+02:00  INFO 18316 --- [http-nio-8091-exec-6] de.woock.service.SchufaService           : speicher Anfrage für NaSchnurr894
+2023-04-19T18:29:28.449+02:00  INFO 18316 --- [http-nio-8091-exec-7] d.woock.controller.SchufaRESTController  : Anfrage für GuSchultz948 eingegangen
+2023-04-19T18:29:28.449+02:00  INFO 18316 --- [http-nio-8091-exec-7] de.woock.service.SchufaService           : bearbeite Anfrage fuer GuSchultz948
+2023-04-19T18:29:28.449+02:00  INFO 18316 --- [http-nio-8091-exec-7] de.woock.service.SchufaService           : speicher Anfrage für GuSchultz948
+2023-04-19T18:29:28.459+02:00  INFO 18316 --- [http-nio-8091-exec-8] d.woock.controller.SchufaRESTController  : Anfrage für JeTörck177 eingegangen
+2023-04-19T18:29:28.460+02:00  INFO 18316 --- [http-nio-8091-exec-8] de.woock.service.SchufaService           : bearbeite Anfrage fuer JeTörck177
+2023-04-19T18:29:28.460+02:00  INFO 18316 --- [http-nio-8091-exec-8] de.woock.service.SchufaService           : speicher Anfrage für JeTörck177
+2023-04-19T18:29:28.471+02:00  INFO 18316 --- [http-nio-8091-exec-10] d.woock.controller.SchufaRESTController  : Anfrage für TrLächte609 eingegangen
+2023-04-19T18:29:28.472+02:00  INFO 18316 --- [http-nio-8091-exec-10] de.woock.service.SchufaService           : bearbeite Anfrage fuer TrLächte609
+2023-04-19T18:29:28.472+02:00  INFO 18316 --- [http-nio-8091-exec-10] de.woock.service.SchufaService           : speicher Anfrage für TrLächte609
+2023-04-19T18:29:28.480+02:00  INFO 18316 --- [http-nio-8091-exec-9] d.woock.controller.SchufaRESTController  : Anfrage für UrOverbeck796 eingegangen
+2023-04-19T18:29:28.481+02:00  INFO 18316 --- [http-nio-8091-exec-9] de.woock.service.SchufaService           : bearbeite Anfrage fuer UrOverbeck796
+2023-04-19T18:29:28.481+02:00  INFO 18316 --- [http-nio-8091-exec-9] de.woock.service.SchufaService           : speicher Anfrage für UrOverbeck796
+2023-04-19T18:29:28.497+02:00  INFO 18316 --- [http-nio-8091-exec-1] d.woock.controller.SchufaRESTController  : Anfrage für ViRumpf115 eingegangen
+2023-04-19T18:29:28.497+02:00  INFO 18316 --- [http-nio-8091-exec-1] de.woock.service.SchufaService           : bearbeite Anfrage fuer ViRumpf115
+2023-04-19T18:29:28.497+02:00  INFO 18316 --- [http-nio-8091-exec-1] de.woock.service.SchufaService           : speicher Anfrage für ViRumpf115
+2023-04-19T18:29:28.504+02:00  INFO 18316 --- [http-nio-8091-exec-3] d.woock.controller.SchufaRESTController  : Anfrage für SoPeter941 eingegangen
+2023-04-19T18:29:28.504+02:00  INFO 18316 --- [http-nio-8091-exec-3] de.woock.service.SchufaService           : bearbeite Anfrage fuer SoPeter941
+2023-04-19T18:29:28.504+02:00  INFO 18316 --- [http-nio-8091-exec-3] de.woock.service.SchufaService           : speicher Anfrage für SoPeter941
+2023-04-19T18:29:28.511+02:00  INFO 18316 --- [http-nio-8091-exec-2] d.woock.controller.SchufaRESTController  : Anfrage für HeGötz202 eingegangen
+2023-04-19T18:29:28.511+02:00  INFO 18316 --- [http-nio-8091-exec-2] de.woock.service.SchufaService           : bearbeite Anfrage fuer HeGötz202
+2023-04-19T18:29:28.511+02:00  INFO 18316 --- [http-nio-8091-exec-2] de.woock.service.SchufaService           : speicher Anfrage für HeGötz202
+2023-04-19T18:29:53.148+02:00  INFO 18316 --- [http-nio-8091-exec-4] d.woock.controller.SchufaRESTController  : Anfrage für WaMicus881 eingegangen
+2023-04-19T18:29:53.148+02:00  INFO 18316 --- [http-nio-8091-exec-4] de.woock.service.SchufaService           : bearbeite Anfrage fuer WaMicus881
+2023-04-19T18:29:53.148+02:00  INFO 18316 --- [http-nio-8091-exec-4] de.woock.service.SchufaService           : speicher Anfrage für WaMicus881
+2023-04-19T18:29:53.167+02:00  INFO 18316 --- [http-nio-8091-exec-5] d.woock.controller.SchufaRESTController  : Anfrage für BeFranz569 eingegangen
+2023-04-19T18:29:53.167+02:00  INFO 18316 --- [http-nio-8091-exec-5] de.woock.service.SchufaService           : bearbeite Anfrage fuer BeFranz569
+2023-04-19T18:29:53.167+02:00  INFO 18316 --- [http-nio-8091-exec-5] de.woock.service.SchufaService           : speicher Anfrage für BeFranz569
+2023-04-19T18:29:53.187+02:00  INFO 18316 --- [http-nio-8091-exec-6] d.woock.controller.SchufaRESTController  : Anfrage für JuPlagemann143 eingegangen
+2023-04-19T18:29:53.188+02:00  INFO 18316 --- [http-nio-8091-exec-6] de.woock.service.SchufaService           : bearbeite Anfrage fuer JuPlagemann143
+2023-04-19T18:29:53.189+02:00  INFO 18316 --- [http-nio-8091-exec-6] de.woock.service.SchufaService           : speicher Anfrage für JuPlagemann143
+2023-04-19T18:29:53.211+02:00  INFO 18316 --- [http-nio-8091-exec-7] d.woock.controller.SchufaRESTController  : Anfrage für CoLächte531 eingegangen
+2023-04-19T18:29:53.211+02:00  INFO 18316 --- [http-nio-8091-exec-7] de.woock.service.SchufaService           : bearbeite Anfrage fuer CoLächte531
+2023-04-19T18:29:53.211+02:00  INFO 18316 --- [http-nio-8091-exec-7] de.woock.service.SchufaService           : speicher Anfrage für CoLächte531
+2023-04-19T18:29:53.224+02:00  INFO 18316 --- [http-nio-8091-exec-8] d.woock.controller.SchufaRESTController  : Anfrage für ThLuhmann319 eingegangen
+2023-04-19T18:29:53.224+02:00  INFO 18316 --- [http-nio-8091-exec-8] de.woock.service.SchufaService           : bearbeite Anfrage fuer ThLuhmann319
+2023-04-19T18:29:53.224+02:00  INFO 18316 --- [http-nio-8091-exec-8] de.woock.service.SchufaService           : speicher Anfrage für ThLuhmann319
+2023-04-19T18:29:53.250+02:00  INFO 18316 --- [http-nio-8091-exec-10] d.woock.controller.SchufaRESTController  : Anfrage für AnSperner597 eingegangen
+2023-04-19T18:29:53.251+02:00  INFO 18316 --- [http-nio-8091-exec-10] de.woock.service.SchufaService           : bearbeite Anfrage fuer AnSperner597
+2023-04-19T18:29:53.251+02:00  INFO 18316 --- [http-nio-8091-exec-10] de.woock.service.SchufaService           : speicher Anfrage für AnSperner597
+2023-04-19T18:29:53.259+02:00  INFO 18316 --- [http-nio-8091-exec-9] d.woock.controller.SchufaRESTController  : Anfrage für GeMester205 eingegangen
+2023-04-19T18:29:53.259+02:00  INFO 18316 --- [http-nio-8091-exec-9] de.woock.service.SchufaService           : bearbeite Anfrage fuer GeMester205
+2023-04-19T18:29:53.259+02:00  INFO 18316 --- [http-nio-8091-exec-9] de.woock.service.SchufaService           : speicher Anfrage für GeMester205
+2023-04-19T18:29:53.267+02:00  INFO 18316 --- [http-nio-8091-exec-1] d.woock.controller.SchufaRESTController  : Anfrage für ReQuerfurt966 eingegangen
+2023-04-19T18:29:53.267+02:00  INFO 18316 --- [http-nio-8091-exec-1] de.woock.service.SchufaService           : bearbeite Anfrage fuer ReQuerfurt966
+2023-04-19T18:29:53.267+02:00  INFO 18316 --- [http-nio-8091-exec-1] de.woock.service.SchufaService           : speicher Anfrage für ReQuerfurt966
+2023-04-19T18:29:53.274+02:00  INFO 18316 --- [http-nio-8091-exec-3] d.woock.controller.SchufaRESTController  : Anfrage für HeChristiansen607 eingegangen
+2023-04-19T18:29:53.274+02:00  INFO 18316 --- [http-nio-8091-exec-3] de.woock.service.SchufaService           : bearbeite Anfrage fuer HeChristiansen607
+2023-04-19T18:29:53.274+02:00  INFO 18316 --- [http-nio-8091-exec-3] de.woock.service.SchufaService           : speicher Anfrage für HeChristiansen607
+2023-04-19T18:29:53.284+02:00  INFO 18316 --- [http-nio-8091-exec-2] d.woock.controller.SchufaRESTController  : Anfrage für BrBröhlmeier17 eingegangen
+2023-04-19T18:29:53.284+02:00  INFO 18316 --- [http-nio-8091-exec-2] de.woock.service.SchufaService           : bearbeite Anfrage fuer BrBröhlmeier17
+2023-04-19T18:29:53.284+02:00  INFO 18316 --- [http-nio-8091-exec-2] de.woock.service.SchufaService           : speicher Anfrage für BrBröhlmeier17
+2023-04-19T18:30:21.774+02:00  INFO 18316 --- [http-nio-8091-exec-4] d.woock.controller.SchufaRESTController  : Anfrage für JuHackmann133 eingegangen
+2023-04-19T18:30:21.774+02:00  INFO 18316 --- [http-nio-8091-exec-4] de.woock.service.SchufaService           : bearbeite Anfrage fuer JuHackmann133
+2023-04-19T18:30:21.774+02:00  INFO 18316 --- [http-nio-8091-exec-4] de.woock.service.SchufaService           : speicher Anfrage für JuHackmann133
+2023-04-19T18:30:21.805+02:00  INFO 18316 --- [http-nio-8091-exec-5] d.woock.controller.SchufaRESTController  : Anfrage für NiMeier240 eingegangen
+2023-04-19T18:30:21.805+02:00  INFO 18316 --- [http-nio-8091-exec-5] de.woock.service.SchufaService           : bearbeite Anfrage fuer NiMeier240
+2023-04-19T18:30:21.805+02:00  INFO 18316 --- [http-nio-8091-exec-5] de.woock.service.SchufaService           : speicher Anfrage für NiMeier240
+2023-04-19T18:30:21.811+02:00  INFO 18316 --- [http-nio-8091-exec-6] d.woock.controller.SchufaRESTController  : Anfrage für GuFranz298 eingegangen
+2023-04-19T18:30:21.812+02:00  INFO 18316 --- [http-nio-8091-exec-6] de.woock.service.SchufaService           : bearbeite Anfrage fuer GuFranz298
+2023-04-19T18:30:21.812+02:00  INFO 18316 --- [http-nio-8091-exec-6] de.woock.service.SchufaService           : speicher Anfrage für GuFranz298
+2023-04-19T18:30:21.827+02:00  INFO 18316 --- [http-nio-8091-exec-7] d.woock.controller.SchufaRESTController  : Anfrage für DoIneichen842 eingegangen
+2023-04-19T18:30:21.828+02:00  INFO 18316 --- [http-nio-8091-exec-7] de.woock.service.SchufaService           : bearbeite Anfrage fuer DoIneichen842
+2023-04-19T18:30:21.829+02:00  INFO 18316 --- [http-nio-8091-exec-7] de.woock.service.SchufaService           : speicher Anfrage für DoIneichen842
+2023-04-19T18:30:21.856+02:00  INFO 18316 --- [http-nio-8091-exec-8] d.woock.controller.SchufaRESTController  : Anfrage für WoFröhlich47 eingegangen
+2023-04-19T18:30:21.856+02:00  INFO 18316 --- [http-nio-8091-exec-8] de.woock.service.SchufaService           : bearbeite Anfrage fuer WoFröhlich47
+2023-04-19T18:30:21.857+02:00  INFO 18316 --- [http-nio-8091-exec-8] de.woock.service.SchufaService           : speicher Anfrage für WoFröhlich47
+2023-04-19T18:30:21.868+02:00  INFO 18316 --- [http-nio-8091-exec-10] d.woock.controller.SchufaRESTController  : Anfrage für ToKöstner272 eingegangen
+2023-04-19T18:30:21.868+02:00  INFO 18316 --- [http-nio-8091-exec-10] de.woock.service.SchufaService           : bearbeite Anfrage fuer ToKöstner272
+2023-04-19T18:30:21.868+02:00  INFO 18316 --- [http-nio-8091-exec-10] de.woock.service.SchufaService           : speicher Anfrage für ToKöstner272
+2023-04-19T18:30:21.878+02:00  INFO 18316 --- [http-nio-8091-exec-9] d.woock.controller.SchufaRESTController  : Anfrage für CaBröhlmeier550 eingegangen
+2023-04-19T18:30:21.880+02:00  INFO 18316 --- [http-nio-8091-exec-9] de.woock.service.SchufaService           : bearbeite Anfrage fuer CaBröhlmeier550
+2023-04-19T18:30:21.880+02:00  INFO 18316 --- [http-nio-8091-exec-9] de.woock.service.SchufaService           : speicher Anfrage für CaBröhlmeier550
+2023-04-19T18:30:21.887+02:00  INFO 18316 --- [http-nio-8091-exec-1] d.woock.controller.SchufaRESTController  : Anfrage für SaIneichen247 eingegangen
+2023-04-19T18:30:21.888+02:00  INFO 18316 --- [http-nio-8091-exec-1] de.woock.service.SchufaService           : bearbeite Anfrage fuer SaIneichen247
+2023-04-19T18:30:21.888+02:00  INFO 18316 --- [http-nio-8091-exec-1] de.woock.service.SchufaService           : speicher Anfrage für SaIneichen247
+2023-04-19T18:30:21.897+02:00  INFO 18316 --- [http-nio-8091-exec-3] d.woock.controller.SchufaRESTController  : Anfrage für AnSchnurre729 eingegangen
+2023-04-19T18:30:21.897+02:00  INFO 18316 --- [http-nio-8091-exec-3] de.woock.service.SchufaService           : bearbeite Anfrage fuer AnSchnurre729
+2023-04-19T18:30:21.898+02:00  INFO 18316 --- [http-nio-8091-exec-3] de.woock.service.SchufaService           : speicher Anfrage für AnSchnurre729
+2023-04-19T18:30:21.904+02:00  INFO 18316 --- [http-nio-8091-exec-2] d.woock.controller.SchufaRESTController  : Anfrage für ErLudwig432 eingegangen
+2023-04-19T18:30:21.904+02:00  INFO 18316 --- [http-nio-8091-exec-2] de.woock.service.SchufaService           : bearbeite Anfrage fuer ErLudwig432
+2023-04-19T18:30:21.904+02:00  INFO 18316 --- [http-nio-8091-exec-2] de.woock.service.SchufaService           : speicher Anfrage für ErLudwig432
+2023-04-19T18:30:24.364+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : suche nach Auftraegen...
+2023-04-19T18:30:24.369+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : berechne Bonitaet für DeHänlein886
+2023-04-19T18:30:24.369+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : Bonitaet für DeHänlein886: GUT
+2023-04-19T18:30:24.369+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : sende Anwort für DeHänlein886
+2023-04-19T18:30:26.646+02:00 ERROR 18316 --- [scheduling-1] o.s.s.s.TaskUtils$LoggingErrorHandler    : Unexpected error occurred in scheduled task
+
+org.springframework.amqp.AmqpIOException: java.net.UnknownHostException: Der angegebene Host ist unbekannt (rabbitmq)
+	at org.springframework.amqp.rabbit.support.RabbitExceptionTranslator.convertRabbitAccessException(RabbitExceptionTranslator.java:70) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:594) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.CachingConnectionFactory.createConnection(CachingConnectionFactory.java:687) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.ConnectionFactoryUtils.createConnection(ConnectionFactoryUtils.java:257) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.doExecute(RabbitTemplate.java:2225) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.execute(RabbitTemplate.java:2198) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.send(RabbitTemplate.java:1119) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.convertAndSend(RabbitTemplate.java:1182) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.convertAndSend(RabbitTemplate.java:1175) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at de.woock.service.SchufaService.sendeAntwort(SchufaService.java:32) ~[main/:na]
+	at de.woock.service.CheckService.lambda$0(CheckService.java:32) ~[main/:na]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) ~[na:na]
+	at de.woock.service.CheckService.bearbeiteAuftraege(CheckService.java:26) ~[main/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84) ~[spring-context-6.0.7.jar:6.0.7]
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54) ~[spring-context-6.0.7.jar:6.0.7]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[na:na]
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305) ~[na:na]
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[na:na]
+	at java.base/java.lang.Thread.run(Thread.java:833) ~[na:na]
+Caused by: java.net.UnknownHostException: Der angegebene Host ist unbekannt (rabbitmq)
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method) ~[na:na]
+	at java.base/java.net.InetAddress$PlatformNameService.lookupAllHostAddr(InetAddress.java:933) ~[na:na]
+	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1529) ~[na:na]
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:852) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1519) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1377) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1305) ~[na:na]
+	at com.rabbitmq.client.DnsRecordIpAddressResolver.resolveIpAddresses(DnsRecordIpAddressResolver.java:83) ~[amqp-client-5.16.0.jar:5.16.0]
+	at com.rabbitmq.client.DnsRecordIpAddressResolver.getAddresses(DnsRecordIpAddressResolver.java:73) ~[amqp-client-5.16.0.jar:5.16.0]
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:1219) ~[amqp-client-5.16.0.jar:5.16.0]
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:1173) ~[amqp-client-5.16.0.jar:5.16.0]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.connectAddresses(AbstractConnectionFactory.java:632) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.connect(AbstractConnectionFactory.java:607) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:557) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	... 23 common frames omitted
+
+2023-04-19T18:31:11.127+02:00  INFO 18316 --- [http-nio-8091-exec-4] d.woock.controller.SchufaRESTController  : Anfrage für KaSchulz841 eingegangen
+2023-04-19T18:31:11.127+02:00  INFO 18316 --- [http-nio-8091-exec-4] de.woock.service.SchufaService           : bearbeite Anfrage fuer KaSchulz841
+2023-04-19T18:31:11.127+02:00  INFO 18316 --- [http-nio-8091-exec-4] de.woock.service.SchufaService           : speicher Anfrage für KaSchulz841
+2023-04-19T18:31:11.135+02:00  INFO 18316 --- [http-nio-8091-exec-5] d.woock.controller.SchufaRESTController  : Anfrage für JeIneichen43 eingegangen
+2023-04-19T18:31:11.136+02:00  INFO 18316 --- [http-nio-8091-exec-5] de.woock.service.SchufaService           : bearbeite Anfrage fuer JeIneichen43
+2023-04-19T18:31:11.136+02:00  INFO 18316 --- [http-nio-8091-exec-5] de.woock.service.SchufaService           : speicher Anfrage für JeIneichen43
+2023-04-19T18:31:11.144+02:00  INFO 18316 --- [http-nio-8091-exec-6] d.woock.controller.SchufaRESTController  : Anfrage für LuBiermann815 eingegangen
+2023-04-19T18:31:11.144+02:00  INFO 18316 --- [http-nio-8091-exec-6] de.woock.service.SchufaService           : bearbeite Anfrage fuer LuBiermann815
+2023-04-19T18:31:11.144+02:00  INFO 18316 --- [http-nio-8091-exec-6] de.woock.service.SchufaService           : speicher Anfrage für LuBiermann815
+2023-04-19T18:31:11.189+02:00  INFO 18316 --- [http-nio-8091-exec-7] d.woock.controller.SchufaRESTController  : Anfrage für AdLäcking962 eingegangen
+2023-04-19T18:31:11.189+02:00  INFO 18316 --- [http-nio-8091-exec-7] de.woock.service.SchufaService           : bearbeite Anfrage fuer AdLäcking962
+2023-04-19T18:31:11.189+02:00  INFO 18316 --- [http-nio-8091-exec-7] de.woock.service.SchufaService           : speicher Anfrage für AdLäcking962
+2023-04-19T18:31:11.200+02:00  INFO 18316 --- [http-nio-8091-exec-8] d.woock.controller.SchufaRESTController  : Anfrage für ElQuant753 eingegangen
+2023-04-19T18:31:11.201+02:00  INFO 18316 --- [http-nio-8091-exec-8] de.woock.service.SchufaService           : bearbeite Anfrage fuer ElQuant753
+2023-04-19T18:31:11.201+02:00  INFO 18316 --- [http-nio-8091-exec-8] de.woock.service.SchufaService           : speicher Anfrage für ElQuant753
+2023-04-19T18:31:11.207+02:00  INFO 18316 --- [http-nio-8091-exec-10] d.woock.controller.SchufaRESTController  : Anfrage für AnLäcking706 eingegangen
+2023-04-19T18:31:11.207+02:00  INFO 18316 --- [http-nio-8091-exec-10] de.woock.service.SchufaService           : bearbeite Anfrage fuer AnLäcking706
+2023-04-19T18:31:11.207+02:00  INFO 18316 --- [http-nio-8091-exec-10] de.woock.service.SchufaService           : speicher Anfrage für AnLäcking706
+2023-04-19T18:31:11.217+02:00  INFO 18316 --- [http-nio-8091-exec-9] d.woock.controller.SchufaRESTController  : Anfrage für BaSchnurre466 eingegangen
+2023-04-19T18:31:11.217+02:00  INFO 18316 --- [http-nio-8091-exec-9] de.woock.service.SchufaService           : bearbeite Anfrage fuer BaSchnurre466
+2023-04-19T18:31:11.218+02:00  INFO 18316 --- [http-nio-8091-exec-9] de.woock.service.SchufaService           : speicher Anfrage für BaSchnurre466
+2023-04-19T18:31:11.236+02:00  INFO 18316 --- [http-nio-8091-exec-1] d.woock.controller.SchufaRESTController  : Anfrage für TuGötz710 eingegangen
+2023-04-19T18:31:11.237+02:00  INFO 18316 --- [http-nio-8091-exec-1] de.woock.service.SchufaService           : bearbeite Anfrage fuer TuGötz710
+2023-04-19T18:31:11.238+02:00  INFO 18316 --- [http-nio-8091-exec-1] de.woock.service.SchufaService           : speicher Anfrage für TuGötz710
+2023-04-19T18:31:11.274+02:00  INFO 18316 --- [http-nio-8091-exec-3] d.woock.controller.SchufaRESTController  : Anfrage für CaSchnorr528 eingegangen
+2023-04-19T18:31:11.274+02:00  INFO 18316 --- [http-nio-8091-exec-3] de.woock.service.SchufaService           : bearbeite Anfrage fuer CaSchnorr528
+2023-04-19T18:31:11.274+02:00  INFO 18316 --- [http-nio-8091-exec-3] de.woock.service.SchufaService           : speicher Anfrage für CaSchnorr528
+2023-04-19T18:31:11.286+02:00  INFO 18316 --- [http-nio-8091-exec-2] d.woock.controller.SchufaRESTController  : Anfrage für JoWeck162 eingegangen
+2023-04-19T18:31:11.286+02:00  INFO 18316 --- [http-nio-8091-exec-2] de.woock.service.SchufaService           : bearbeite Anfrage fuer JoWeck162
+2023-04-19T18:31:11.286+02:00  INFO 18316 --- [http-nio-8091-exec-2] de.woock.service.SchufaService           : speicher Anfrage für JoWeck162
+2023-04-19T18:31:24.368+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : suche nach Auftraegen...
+2023-04-19T18:31:24.377+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : berechne Bonitaet für DeHänlein886
+2023-04-19T18:31:24.378+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : Bonitaet für DeHänlein886: GUT
+2023-04-19T18:31:24.378+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : sende Anwort für DeHänlein886
+2023-04-19T18:31:26.666+02:00 ERROR 18316 --- [scheduling-1] o.s.s.s.TaskUtils$LoggingErrorHandler    : Unexpected error occurred in scheduled task
+
+org.springframework.amqp.AmqpIOException: java.net.UnknownHostException: Der angegebene Host ist unbekannt (rabbitmq)
+	at org.springframework.amqp.rabbit.support.RabbitExceptionTranslator.convertRabbitAccessException(RabbitExceptionTranslator.java:70) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:594) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.CachingConnectionFactory.createConnection(CachingConnectionFactory.java:687) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.ConnectionFactoryUtils.createConnection(ConnectionFactoryUtils.java:257) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.doExecute(RabbitTemplate.java:2225) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.execute(RabbitTemplate.java:2198) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.send(RabbitTemplate.java:1119) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.convertAndSend(RabbitTemplate.java:1182) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.convertAndSend(RabbitTemplate.java:1175) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at de.woock.service.SchufaService.sendeAntwort(SchufaService.java:32) ~[main/:na]
+	at de.woock.service.CheckService.lambda$0(CheckService.java:32) ~[main/:na]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) ~[na:na]
+	at de.woock.service.CheckService.bearbeiteAuftraege(CheckService.java:26) ~[main/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84) ~[spring-context-6.0.7.jar:6.0.7]
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54) ~[spring-context-6.0.7.jar:6.0.7]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[na:na]
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305) ~[na:na]
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[na:na]
+	at java.base/java.lang.Thread.run(Thread.java:833) ~[na:na]
+Caused by: java.net.UnknownHostException: Der angegebene Host ist unbekannt (rabbitmq)
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method) ~[na:na]
+	at java.base/java.net.InetAddress$PlatformNameService.lookupAllHostAddr(InetAddress.java:933) ~[na:na]
+	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1529) ~[na:na]
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:852) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1519) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1377) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1305) ~[na:na]
+	at com.rabbitmq.client.DnsRecordIpAddressResolver.resolveIpAddresses(DnsRecordIpAddressResolver.java:83) ~[amqp-client-5.16.0.jar:5.16.0]
+	at com.rabbitmq.client.DnsRecordIpAddressResolver.getAddresses(DnsRecordIpAddressResolver.java:73) ~[amqp-client-5.16.0.jar:5.16.0]
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:1219) ~[amqp-client-5.16.0.jar:5.16.0]
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:1173) ~[amqp-client-5.16.0.jar:5.16.0]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.connectAddresses(AbstractConnectionFactory.java:632) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.connect(AbstractConnectionFactory.java:607) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:557) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	... 23 common frames omitted
+
+2023-04-19T18:32:00.847+02:00  INFO 18316 --- [http-nio-8091-exec-4] d.woock.controller.SchufaRESTController  : Anfrage für WiLeber146 eingegangen
+2023-04-19T18:32:00.848+02:00  INFO 18316 --- [http-nio-8091-exec-4] de.woock.service.SchufaService           : bearbeite Anfrage fuer WiLeber146
+2023-04-19T18:32:00.848+02:00  INFO 18316 --- [http-nio-8091-exec-4] de.woock.service.SchufaService           : speicher Anfrage für WiLeber146
+2023-04-19T18:32:00.855+02:00  INFO 18316 --- [http-nio-8091-exec-5] d.woock.controller.SchufaRESTController  : Anfrage für ChMarx882 eingegangen
+2023-04-19T18:32:00.855+02:00  INFO 18316 --- [http-nio-8091-exec-5] de.woock.service.SchufaService           : bearbeite Anfrage fuer ChMarx882
+2023-04-19T18:32:00.855+02:00  INFO 18316 --- [http-nio-8091-exec-5] de.woock.service.SchufaService           : speicher Anfrage für ChMarx882
+2023-04-19T18:32:00.901+02:00  INFO 18316 --- [http-nio-8091-exec-6] d.woock.controller.SchufaRESTController  : Anfrage für HaGärtner421 eingegangen
+2023-04-19T18:32:00.902+02:00  INFO 18316 --- [http-nio-8091-exec-6] de.woock.service.SchufaService           : bearbeite Anfrage fuer HaGärtner421
+2023-04-19T18:32:00.902+02:00  INFO 18316 --- [http-nio-8091-exec-6] de.woock.service.SchufaService           : speicher Anfrage für HaGärtner421
+2023-04-19T18:32:00.911+02:00  INFO 18316 --- [http-nio-8091-exec-7] d.woock.controller.SchufaRESTController  : Anfrage für PeOssege684 eingegangen
+2023-04-19T18:32:00.911+02:00  INFO 18316 --- [http-nio-8091-exec-7] de.woock.service.SchufaService           : bearbeite Anfrage fuer PeOssege684
+2023-04-19T18:32:00.911+02:00  INFO 18316 --- [http-nio-8091-exec-7] de.woock.service.SchufaService           : speicher Anfrage für PeOssege684
+2023-04-19T18:32:00.918+02:00  INFO 18316 --- [http-nio-8091-exec-8] d.woock.controller.SchufaRESTController  : Anfrage für ThFreund552 eingegangen
+2023-04-19T18:32:00.918+02:00  INFO 18316 --- [http-nio-8091-exec-8] de.woock.service.SchufaService           : bearbeite Anfrage fuer ThFreund552
+2023-04-19T18:32:00.918+02:00  INFO 18316 --- [http-nio-8091-exec-8] de.woock.service.SchufaService           : speicher Anfrage für ThFreund552
+2023-04-19T18:32:00.924+02:00  INFO 18316 --- [http-nio-8091-exec-10] d.woock.controller.SchufaRESTController  : Anfrage für LuWiegand686 eingegangen
+2023-04-19T18:32:00.924+02:00  INFO 18316 --- [http-nio-8091-exec-10] de.woock.service.SchufaService           : bearbeite Anfrage fuer LuWiegand686
+2023-04-19T18:32:00.924+02:00  INFO 18316 --- [http-nio-8091-exec-10] de.woock.service.SchufaService           : speicher Anfrage für LuWiegand686
+2023-04-19T18:32:00.932+02:00  INFO 18316 --- [http-nio-8091-exec-9] d.woock.controller.SchufaRESTController  : Anfrage für AdGerster189 eingegangen
+2023-04-19T18:32:00.932+02:00  INFO 18316 --- [http-nio-8091-exec-9] de.woock.service.SchufaService           : bearbeite Anfrage fuer AdGerster189
+2023-04-19T18:32:00.932+02:00  INFO 18316 --- [http-nio-8091-exec-9] de.woock.service.SchufaService           : speicher Anfrage für AdGerster189
+2023-04-19T18:32:00.940+02:00  INFO 18316 --- [http-nio-8091-exec-1] d.woock.controller.SchufaRESTController  : Anfrage für FaOtto847 eingegangen
+2023-04-19T18:32:00.940+02:00  INFO 18316 --- [http-nio-8091-exec-1] de.woock.service.SchufaService           : bearbeite Anfrage fuer FaOtto847
+2023-04-19T18:32:00.940+02:00  INFO 18316 --- [http-nio-8091-exec-1] de.woock.service.SchufaService           : speicher Anfrage für FaOtto847
+2023-04-19T18:32:00.946+02:00  INFO 18316 --- [http-nio-8091-exec-3] d.woock.controller.SchufaRESTController  : Anfrage für AnJörg601 eingegangen
+2023-04-19T18:32:00.946+02:00  INFO 18316 --- [http-nio-8091-exec-3] de.woock.service.SchufaService           : bearbeite Anfrage fuer AnJörg601
+2023-04-19T18:32:00.946+02:00  INFO 18316 --- [http-nio-8091-exec-3] de.woock.service.SchufaService           : speicher Anfrage für AnJörg601
+2023-04-19T18:32:00.954+02:00  INFO 18316 --- [http-nio-8091-exec-2] d.woock.controller.SchufaRESTController  : Anfrage für IrTörck544 eingegangen
+2023-04-19T18:32:00.954+02:00  INFO 18316 --- [http-nio-8091-exec-2] de.woock.service.SchufaService           : bearbeite Anfrage fuer IrTörck544
+2023-04-19T18:32:00.954+02:00  INFO 18316 --- [http-nio-8091-exec-2] de.woock.service.SchufaService           : speicher Anfrage für IrTörck544
+2023-04-19T18:32:24.357+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : suche nach Auftraegen...
+2023-04-19T18:32:24.365+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : berechne Bonitaet für DeHänlein886
+2023-04-19T18:32:24.365+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : Bonitaet für DeHänlein886: SEHR_GUT
+2023-04-19T18:32:24.365+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : sende Anwort für DeHänlein886
+2023-04-19T18:32:26.638+02:00 ERROR 18316 --- [scheduling-1] o.s.s.s.TaskUtils$LoggingErrorHandler    : Unexpected error occurred in scheduled task
+
+org.springframework.amqp.AmqpIOException: java.net.UnknownHostException: Der angegebene Host ist unbekannt (rabbitmq)
+	at org.springframework.amqp.rabbit.support.RabbitExceptionTranslator.convertRabbitAccessException(RabbitExceptionTranslator.java:70) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:594) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.CachingConnectionFactory.createConnection(CachingConnectionFactory.java:687) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.ConnectionFactoryUtils.createConnection(ConnectionFactoryUtils.java:257) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.doExecute(RabbitTemplate.java:2225) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.execute(RabbitTemplate.java:2198) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.send(RabbitTemplate.java:1119) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.convertAndSend(RabbitTemplate.java:1182) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.convertAndSend(RabbitTemplate.java:1175) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at de.woock.service.SchufaService.sendeAntwort(SchufaService.java:32) ~[main/:na]
+	at de.woock.service.CheckService.lambda$0(CheckService.java:32) ~[main/:na]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) ~[na:na]
+	at de.woock.service.CheckService.bearbeiteAuftraege(CheckService.java:26) ~[main/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84) ~[spring-context-6.0.7.jar:6.0.7]
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54) ~[spring-context-6.0.7.jar:6.0.7]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[na:na]
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305) ~[na:na]
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[na:na]
+	at java.base/java.lang.Thread.run(Thread.java:833) ~[na:na]
+Caused by: java.net.UnknownHostException: Der angegebene Host ist unbekannt (rabbitmq)
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method) ~[na:na]
+	at java.base/java.net.InetAddress$PlatformNameService.lookupAllHostAddr(InetAddress.java:933) ~[na:na]
+	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1529) ~[na:na]
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:852) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1519) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1377) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1305) ~[na:na]
+	at com.rabbitmq.client.DnsRecordIpAddressResolver.resolveIpAddresses(DnsRecordIpAddressResolver.java:83) ~[amqp-client-5.16.0.jar:5.16.0]
+	at com.rabbitmq.client.DnsRecordIpAddressResolver.getAddresses(DnsRecordIpAddressResolver.java:73) ~[amqp-client-5.16.0.jar:5.16.0]
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:1219) ~[amqp-client-5.16.0.jar:5.16.0]
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:1173) ~[amqp-client-5.16.0.jar:5.16.0]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.connectAddresses(AbstractConnectionFactory.java:632) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.connect(AbstractConnectionFactory.java:607) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:557) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	... 23 common frames omitted
+
+2023-04-19T18:33:24.366+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : suche nach Auftraegen...
+2023-04-19T18:33:24.372+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : berechne Bonitaet für DeHänlein886
+2023-04-19T18:33:24.373+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : Bonitaet für DeHänlein886: GUT
+2023-04-19T18:33:24.373+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : sende Anwort für DeHänlein886
+2023-04-19T18:33:26.645+02:00 ERROR 18316 --- [scheduling-1] o.s.s.s.TaskUtils$LoggingErrorHandler    : Unexpected error occurred in scheduled task
+
+org.springframework.amqp.AmqpIOException: java.net.UnknownHostException: Der angegebene Host ist unbekannt (rabbitmq)
+	at org.springframework.amqp.rabbit.support.RabbitExceptionTranslator.convertRabbitAccessException(RabbitExceptionTranslator.java:70) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:594) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.CachingConnectionFactory.createConnection(CachingConnectionFactory.java:687) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.ConnectionFactoryUtils.createConnection(ConnectionFactoryUtils.java:257) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.doExecute(RabbitTemplate.java:2225) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.execute(RabbitTemplate.java:2198) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.send(RabbitTemplate.java:1119) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.convertAndSend(RabbitTemplate.java:1182) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.convertAndSend(RabbitTemplate.java:1175) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at de.woock.service.SchufaService.sendeAntwort(SchufaService.java:32) ~[main/:na]
+	at de.woock.service.CheckService.lambda$0(CheckService.java:32) ~[main/:na]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) ~[na:na]
+	at de.woock.service.CheckService.bearbeiteAuftraege(CheckService.java:26) ~[main/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84) ~[spring-context-6.0.7.jar:6.0.7]
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54) ~[spring-context-6.0.7.jar:6.0.7]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[na:na]
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305) ~[na:na]
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[na:na]
+	at java.base/java.lang.Thread.run(Thread.java:833) ~[na:na]
+Caused by: java.net.UnknownHostException: Der angegebene Host ist unbekannt (rabbitmq)
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method) ~[na:na]
+	at java.base/java.net.InetAddress$PlatformNameService.lookupAllHostAddr(InetAddress.java:933) ~[na:na]
+	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1529) ~[na:na]
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:852) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1519) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1377) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1305) ~[na:na]
+	at com.rabbitmq.client.DnsRecordIpAddressResolver.resolveIpAddresses(DnsRecordIpAddressResolver.java:83) ~[amqp-client-5.16.0.jar:5.16.0]
+	at com.rabbitmq.client.DnsRecordIpAddressResolver.getAddresses(DnsRecordIpAddressResolver.java:73) ~[amqp-client-5.16.0.jar:5.16.0]
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:1219) ~[amqp-client-5.16.0.jar:5.16.0]
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:1173) ~[amqp-client-5.16.0.jar:5.16.0]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.connectAddresses(AbstractConnectionFactory.java:632) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.connect(AbstractConnectionFactory.java:607) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:557) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	... 23 common frames omitted
+
+2023-04-19T18:33:57.347+02:00  INFO 18316 --- [http-nio-8091-exec-5] d.woock.controller.SchufaRESTController  : Anfrage für WeHerzog400 eingegangen
+2023-04-19T18:33:57.347+02:00  INFO 18316 --- [http-nio-8091-exec-5] de.woock.service.SchufaService           : bearbeite Anfrage fuer WeHerzog400
+2023-04-19T18:33:57.347+02:00  INFO 18316 --- [http-nio-8091-exec-5] de.woock.service.SchufaService           : speicher Anfrage für WeHerzog400
+2023-04-19T18:33:57.354+02:00  INFO 18316 --- [http-nio-8091-exec-6] d.woock.controller.SchufaRESTController  : Anfrage für AnSchultz141 eingegangen
+2023-04-19T18:33:57.354+02:00  INFO 18316 --- [http-nio-8091-exec-6] de.woock.service.SchufaService           : bearbeite Anfrage fuer AnSchultz141
+2023-04-19T18:33:57.354+02:00  INFO 18316 --- [http-nio-8091-exec-6] de.woock.service.SchufaService           : speicher Anfrage für AnSchultz141
+2023-04-19T18:33:57.360+02:00  INFO 18316 --- [http-nio-8091-exec-7] d.woock.controller.SchufaRESTController  : Anfrage für SaTenberge345 eingegangen
+2023-04-19T18:33:57.361+02:00  INFO 18316 --- [http-nio-8091-exec-7] de.woock.service.SchufaService           : bearbeite Anfrage fuer SaTenberge345
+2023-04-19T18:33:57.361+02:00  INFO 18316 --- [http-nio-8091-exec-7] de.woock.service.SchufaService           : speicher Anfrage für SaTenberge345
+2023-04-19T18:33:57.368+02:00  INFO 18316 --- [http-nio-8091-exec-8] d.woock.controller.SchufaRESTController  : Anfrage für LeHänlein280 eingegangen
+2023-04-19T18:33:57.368+02:00  INFO 18316 --- [http-nio-8091-exec-8] de.woock.service.SchufaService           : bearbeite Anfrage fuer LeHänlein280
+2023-04-19T18:33:57.368+02:00  INFO 18316 --- [http-nio-8091-exec-8] de.woock.service.SchufaService           : speicher Anfrage für LeHänlein280
+2023-04-19T18:33:57.376+02:00  INFO 18316 --- [http-nio-8091-exec-10] d.woock.controller.SchufaRESTController  : Anfrage für OlAdam717 eingegangen
+2023-04-19T18:33:57.376+02:00  INFO 18316 --- [http-nio-8091-exec-10] de.woock.service.SchufaService           : bearbeite Anfrage fuer OlAdam717
+2023-04-19T18:33:57.376+02:00  INFO 18316 --- [http-nio-8091-exec-10] de.woock.service.SchufaService           : speicher Anfrage für OlAdam717
+2023-04-19T18:33:57.383+02:00  INFO 18316 --- [http-nio-8091-exec-9] d.woock.controller.SchufaRESTController  : Anfrage für AvHenne989 eingegangen
+2023-04-19T18:33:57.383+02:00  INFO 18316 --- [http-nio-8091-exec-9] de.woock.service.SchufaService           : bearbeite Anfrage fuer AvHenne989
+2023-04-19T18:33:57.383+02:00  INFO 18316 --- [http-nio-8091-exec-9] de.woock.service.SchufaService           : speicher Anfrage für AvHenne989
+2023-04-19T18:33:57.390+02:00  INFO 18316 --- [http-nio-8091-exec-1] d.woock.controller.SchufaRESTController  : Anfrage für AlLuhmann929 eingegangen
+2023-04-19T18:33:57.390+02:00  INFO 18316 --- [http-nio-8091-exec-1] de.woock.service.SchufaService           : bearbeite Anfrage fuer AlLuhmann929
+2023-04-19T18:33:57.390+02:00  INFO 18316 --- [http-nio-8091-exec-1] de.woock.service.SchufaService           : speicher Anfrage für AlLuhmann929
+2023-04-19T18:33:57.400+02:00  INFO 18316 --- [http-nio-8091-exec-3] d.woock.controller.SchufaRESTController  : Anfrage für ToSchmitt572 eingegangen
+2023-04-19T18:33:57.400+02:00  INFO 18316 --- [http-nio-8091-exec-3] de.woock.service.SchufaService           : bearbeite Anfrage fuer ToSchmitt572
+2023-04-19T18:33:57.400+02:00  INFO 18316 --- [http-nio-8091-exec-3] de.woock.service.SchufaService           : speicher Anfrage für ToSchmitt572
+2023-04-19T18:33:57.408+02:00  INFO 18316 --- [http-nio-8091-exec-2] d.woock.controller.SchufaRESTController  : Anfrage für DeReich990 eingegangen
+2023-04-19T18:33:57.408+02:00  INFO 18316 --- [http-nio-8091-exec-2] de.woock.service.SchufaService           : bearbeite Anfrage fuer DeReich990
+2023-04-19T18:33:57.408+02:00  INFO 18316 --- [http-nio-8091-exec-2] de.woock.service.SchufaService           : speicher Anfrage für DeReich990
+2023-04-19T18:33:57.415+02:00  INFO 18316 --- [http-nio-8091-exec-4] d.woock.controller.SchufaRESTController  : Anfrage für RoHenne404 eingegangen
+2023-04-19T18:33:57.415+02:00  INFO 18316 --- [http-nio-8091-exec-4] de.woock.service.SchufaService           : bearbeite Anfrage fuer RoHenne404
+2023-04-19T18:33:57.415+02:00  INFO 18316 --- [http-nio-8091-exec-4] de.woock.service.SchufaService           : speicher Anfrage für RoHenne404
+2023-04-19T18:34:24.356+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : suche nach Auftraegen...
+2023-04-19T18:34:24.359+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : berechne Bonitaet für DeHänlein886
+2023-04-19T18:34:24.359+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : Bonitaet für DeHänlein886: SCHLECHT
+2023-04-19T18:34:24.360+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : sende Anwort für DeHänlein886
+2023-04-19T18:34:26.651+02:00 ERROR 18316 --- [scheduling-1] o.s.s.s.TaskUtils$LoggingErrorHandler    : Unexpected error occurred in scheduled task
+
+org.springframework.amqp.AmqpIOException: java.net.UnknownHostException: Der angegebene Host ist unbekannt (rabbitmq)
+	at org.springframework.amqp.rabbit.support.RabbitExceptionTranslator.convertRabbitAccessException(RabbitExceptionTranslator.java:70) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:594) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.CachingConnectionFactory.createConnection(CachingConnectionFactory.java:687) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.ConnectionFactoryUtils.createConnection(ConnectionFactoryUtils.java:257) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.doExecute(RabbitTemplate.java:2225) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.execute(RabbitTemplate.java:2198) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.send(RabbitTemplate.java:1119) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.convertAndSend(RabbitTemplate.java:1182) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.convertAndSend(RabbitTemplate.java:1175) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at de.woock.service.SchufaService.sendeAntwort(SchufaService.java:32) ~[main/:na]
+	at de.woock.service.CheckService.lambda$0(CheckService.java:32) ~[main/:na]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) ~[na:na]
+	at de.woock.service.CheckService.bearbeiteAuftraege(CheckService.java:26) ~[main/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84) ~[spring-context-6.0.7.jar:6.0.7]
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54) ~[spring-context-6.0.7.jar:6.0.7]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[na:na]
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305) ~[na:na]
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[na:na]
+	at java.base/java.lang.Thread.run(Thread.java:833) ~[na:na]
+Caused by: java.net.UnknownHostException: Der angegebene Host ist unbekannt (rabbitmq)
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method) ~[na:na]
+	at java.base/java.net.InetAddress$PlatformNameService.lookupAllHostAddr(InetAddress.java:933) ~[na:na]
+	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1529) ~[na:na]
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:852) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1519) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1377) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1305) ~[na:na]
+	at com.rabbitmq.client.DnsRecordIpAddressResolver.resolveIpAddresses(DnsRecordIpAddressResolver.java:83) ~[amqp-client-5.16.0.jar:5.16.0]
+	at com.rabbitmq.client.DnsRecordIpAddressResolver.getAddresses(DnsRecordIpAddressResolver.java:73) ~[amqp-client-5.16.0.jar:5.16.0]
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:1219) ~[amqp-client-5.16.0.jar:5.16.0]
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:1173) ~[amqp-client-5.16.0.jar:5.16.0]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.connectAddresses(AbstractConnectionFactory.java:632) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.connect(AbstractConnectionFactory.java:607) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:557) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	... 23 common frames omitted
+
+2023-04-19T18:35:24.362+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : suche nach Auftraegen...
+2023-04-19T18:35:24.364+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : berechne Bonitaet für DeHänlein886
+2023-04-19T18:35:24.364+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : Bonitaet für DeHänlein886: GUT
+2023-04-19T18:35:24.364+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : sende Anwort für DeHänlein886
+2023-04-19T18:35:26.655+02:00 ERROR 18316 --- [scheduling-1] o.s.s.s.TaskUtils$LoggingErrorHandler    : Unexpected error occurred in scheduled task
+
+org.springframework.amqp.AmqpIOException: java.net.UnknownHostException: Der angegebene Host ist unbekannt (rabbitmq)
+	at org.springframework.amqp.rabbit.support.RabbitExceptionTranslator.convertRabbitAccessException(RabbitExceptionTranslator.java:70) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:594) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.CachingConnectionFactory.createConnection(CachingConnectionFactory.java:687) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.ConnectionFactoryUtils.createConnection(ConnectionFactoryUtils.java:257) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.doExecute(RabbitTemplate.java:2225) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.execute(RabbitTemplate.java:2198) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.send(RabbitTemplate.java:1119) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.convertAndSend(RabbitTemplate.java:1182) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.convertAndSend(RabbitTemplate.java:1175) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at de.woock.service.SchufaService.sendeAntwort(SchufaService.java:32) ~[main/:na]
+	at de.woock.service.CheckService.lambda$0(CheckService.java:32) ~[main/:na]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) ~[na:na]
+	at de.woock.service.CheckService.bearbeiteAuftraege(CheckService.java:26) ~[main/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84) ~[spring-context-6.0.7.jar:6.0.7]
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54) ~[spring-context-6.0.7.jar:6.0.7]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[na:na]
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305) ~[na:na]
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[na:na]
+	at java.base/java.lang.Thread.run(Thread.java:833) ~[na:na]
+Caused by: java.net.UnknownHostException: Der angegebene Host ist unbekannt (rabbitmq)
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method) ~[na:na]
+	at java.base/java.net.InetAddress$PlatformNameService.lookupAllHostAddr(InetAddress.java:933) ~[na:na]
+	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1529) ~[na:na]
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:852) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1519) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1377) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1305) ~[na:na]
+	at com.rabbitmq.client.DnsRecordIpAddressResolver.resolveIpAddresses(DnsRecordIpAddressResolver.java:83) ~[amqp-client-5.16.0.jar:5.16.0]
+	at com.rabbitmq.client.DnsRecordIpAddressResolver.getAddresses(DnsRecordIpAddressResolver.java:73) ~[amqp-client-5.16.0.jar:5.16.0]
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:1219) ~[amqp-client-5.16.0.jar:5.16.0]
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:1173) ~[amqp-client-5.16.0.jar:5.16.0]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.connectAddresses(AbstractConnectionFactory.java:632) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.connect(AbstractConnectionFactory.java:607) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:557) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	... 23 common frames omitted
+
+2023-04-19T18:36:24.362+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : suche nach Auftraegen...
+2023-04-19T18:36:24.365+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : berechne Bonitaet für DeHänlein886
+2023-04-19T18:36:24.365+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : Bonitaet für DeHänlein886: GUT
+2023-04-19T18:36:24.365+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : sende Anwort für DeHänlein886
+2023-04-19T18:36:26.635+02:00 ERROR 18316 --- [scheduling-1] o.s.s.s.TaskUtils$LoggingErrorHandler    : Unexpected error occurred in scheduled task
+
+org.springframework.amqp.AmqpIOException: java.net.UnknownHostException: Der angegebene Host ist unbekannt (rabbitmq)
+	at org.springframework.amqp.rabbit.support.RabbitExceptionTranslator.convertRabbitAccessException(RabbitExceptionTranslator.java:70) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:594) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.CachingConnectionFactory.createConnection(CachingConnectionFactory.java:687) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.ConnectionFactoryUtils.createConnection(ConnectionFactoryUtils.java:257) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.doExecute(RabbitTemplate.java:2225) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.execute(RabbitTemplate.java:2198) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.send(RabbitTemplate.java:1119) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.convertAndSend(RabbitTemplate.java:1182) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.convertAndSend(RabbitTemplate.java:1175) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at de.woock.service.SchufaService.sendeAntwort(SchufaService.java:32) ~[main/:na]
+	at de.woock.service.CheckService.lambda$0(CheckService.java:32) ~[main/:na]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) ~[na:na]
+	at de.woock.service.CheckService.bearbeiteAuftraege(CheckService.java:26) ~[main/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84) ~[spring-context-6.0.7.jar:6.0.7]
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54) ~[spring-context-6.0.7.jar:6.0.7]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[na:na]
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305) ~[na:na]
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[na:na]
+	at java.base/java.lang.Thread.run(Thread.java:833) ~[na:na]
+Caused by: java.net.UnknownHostException: Der angegebene Host ist unbekannt (rabbitmq)
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method) ~[na:na]
+	at java.base/java.net.InetAddress$PlatformNameService.lookupAllHostAddr(InetAddress.java:933) ~[na:na]
+	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1529) ~[na:na]
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:852) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1519) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1377) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1305) ~[na:na]
+	at com.rabbitmq.client.DnsRecordIpAddressResolver.resolveIpAddresses(DnsRecordIpAddressResolver.java:83) ~[amqp-client-5.16.0.jar:5.16.0]
+	at com.rabbitmq.client.DnsRecordIpAddressResolver.getAddresses(DnsRecordIpAddressResolver.java:73) ~[amqp-client-5.16.0.jar:5.16.0]
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:1219) ~[amqp-client-5.16.0.jar:5.16.0]
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:1173) ~[amqp-client-5.16.0.jar:5.16.0]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.connectAddresses(AbstractConnectionFactory.java:632) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.connect(AbstractConnectionFactory.java:607) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:557) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	... 23 common frames omitted
+
+2023-04-19T18:37:06.175+02:00  INFO 18316 --- [http-nio-8091-exec-6] d.woock.controller.SchufaRESTController  : Anfrage für FlTörk537 eingegangen
+2023-04-19T18:37:06.176+02:00  INFO 18316 --- [http-nio-8091-exec-6] de.woock.service.SchufaService           : bearbeite Anfrage fuer FlTörk537
+2023-04-19T18:37:06.176+02:00  INFO 18316 --- [http-nio-8091-exec-6] de.woock.service.SchufaService           : speicher Anfrage für FlTörk537
+2023-04-19T18:37:06.182+02:00  INFO 18316 --- [http-nio-8091-exec-7] d.woock.controller.SchufaRESTController  : Anfrage für AnLeber393 eingegangen
+2023-04-19T18:37:06.182+02:00  INFO 18316 --- [http-nio-8091-exec-7] de.woock.service.SchufaService           : bearbeite Anfrage fuer AnLeber393
+2023-04-19T18:37:06.183+02:00  INFO 18316 --- [http-nio-8091-exec-7] de.woock.service.SchufaService           : speicher Anfrage für AnLeber393
+2023-04-19T18:37:06.189+02:00  INFO 18316 --- [http-nio-8091-exec-8] d.woock.controller.SchufaRESTController  : Anfrage für LuBecker89 eingegangen
+2023-04-19T18:37:06.189+02:00  INFO 18316 --- [http-nio-8091-exec-8] de.woock.service.SchufaService           : bearbeite Anfrage fuer LuBecker89
+2023-04-19T18:37:06.189+02:00  INFO 18316 --- [http-nio-8091-exec-8] de.woock.service.SchufaService           : speicher Anfrage für LuBecker89
+2023-04-19T18:37:06.195+02:00  INFO 18316 --- [http-nio-8091-exec-10] d.woock.controller.SchufaRESTController  : Anfrage für ArQuant454 eingegangen
+2023-04-19T18:37:06.195+02:00  INFO 18316 --- [http-nio-8091-exec-10] de.woock.service.SchufaService           : bearbeite Anfrage fuer ArQuant454
+2023-04-19T18:37:06.195+02:00  INFO 18316 --- [http-nio-8091-exec-10] de.woock.service.SchufaService           : speicher Anfrage für ArQuant454
+2023-04-19T18:37:06.203+02:00  INFO 18316 --- [http-nio-8091-exec-9] d.woock.controller.SchufaRESTController  : Anfrage für MuLammers714 eingegangen
+2023-04-19T18:37:06.203+02:00  INFO 18316 --- [http-nio-8091-exec-9] de.woock.service.SchufaService           : bearbeite Anfrage fuer MuLammers714
+2023-04-19T18:37:06.203+02:00  INFO 18316 --- [http-nio-8091-exec-9] de.woock.service.SchufaService           : speicher Anfrage für MuLammers714
+2023-04-19T18:37:06.217+02:00  INFO 18316 --- [http-nio-8091-exec-1] d.woock.controller.SchufaRESTController  : Anfrage für FeWolfram10 eingegangen
+2023-04-19T18:37:06.217+02:00  INFO 18316 --- [http-nio-8091-exec-1] de.woock.service.SchufaService           : bearbeite Anfrage fuer FeWolfram10
+2023-04-19T18:37:06.217+02:00  INFO 18316 --- [http-nio-8091-exec-1] de.woock.service.SchufaService           : speicher Anfrage für FeWolfram10
+2023-04-19T18:37:06.227+02:00  INFO 18316 --- [http-nio-8091-exec-3] d.woock.controller.SchufaRESTController  : Anfrage für JaRumpf644 eingegangen
+2023-04-19T18:37:06.227+02:00  INFO 18316 --- [http-nio-8091-exec-3] de.woock.service.SchufaService           : bearbeite Anfrage fuer JaRumpf644
+2023-04-19T18:37:06.227+02:00  INFO 18316 --- [http-nio-8091-exec-3] de.woock.service.SchufaService           : speicher Anfrage für JaRumpf644
+2023-04-19T18:37:06.233+02:00  INFO 18316 --- [http-nio-8091-exec-2] d.woock.controller.SchufaRESTController  : Anfrage für JaNoack259 eingegangen
+2023-04-19T18:37:06.234+02:00  INFO 18316 --- [http-nio-8091-exec-2] de.woock.service.SchufaService           : bearbeite Anfrage fuer JaNoack259
+2023-04-19T18:37:06.234+02:00  INFO 18316 --- [http-nio-8091-exec-2] de.woock.service.SchufaService           : speicher Anfrage für JaNoack259
+2023-04-19T18:37:06.240+02:00  INFO 18316 --- [http-nio-8091-exec-4] d.woock.controller.SchufaRESTController  : Anfrage für JuSteiner338 eingegangen
+2023-04-19T18:37:06.240+02:00  INFO 18316 --- [http-nio-8091-exec-4] de.woock.service.SchufaService           : bearbeite Anfrage fuer JuSteiner338
+2023-04-19T18:37:06.240+02:00  INFO 18316 --- [http-nio-8091-exec-4] de.woock.service.SchufaService           : speicher Anfrage für JuSteiner338
+2023-04-19T18:37:06.251+02:00  INFO 18316 --- [http-nio-8091-exec-5] d.woock.controller.SchufaRESTController  : Anfrage für FeMeyer730 eingegangen
+2023-04-19T18:37:06.251+02:00  INFO 18316 --- [http-nio-8091-exec-5] de.woock.service.SchufaService           : bearbeite Anfrage fuer FeMeyer730
+2023-04-19T18:37:06.251+02:00  INFO 18316 --- [http-nio-8091-exec-5] de.woock.service.SchufaService           : speicher Anfrage für FeMeyer730
+2023-04-19T18:37:24.366+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : suche nach Auftraegen...
+2023-04-19T18:37:24.370+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : berechne Bonitaet für DeHänlein886
+2023-04-19T18:37:24.370+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : Bonitaet für DeHänlein886: GUT
+2023-04-19T18:37:24.370+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : sende Anwort für DeHänlein886
+2023-04-19T18:37:26.639+02:00 ERROR 18316 --- [scheduling-1] o.s.s.s.TaskUtils$LoggingErrorHandler    : Unexpected error occurred in scheduled task
+
+org.springframework.amqp.AmqpIOException: java.net.UnknownHostException: Der angegebene Host ist unbekannt (rabbitmq)
+	at org.springframework.amqp.rabbit.support.RabbitExceptionTranslator.convertRabbitAccessException(RabbitExceptionTranslator.java:70) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:594) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.CachingConnectionFactory.createConnection(CachingConnectionFactory.java:687) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.ConnectionFactoryUtils.createConnection(ConnectionFactoryUtils.java:257) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.doExecute(RabbitTemplate.java:2225) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.execute(RabbitTemplate.java:2198) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.send(RabbitTemplate.java:1119) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.convertAndSend(RabbitTemplate.java:1182) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.convertAndSend(RabbitTemplate.java:1175) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at de.woock.service.SchufaService.sendeAntwort(SchufaService.java:32) ~[main/:na]
+	at de.woock.service.CheckService.lambda$0(CheckService.java:32) ~[main/:na]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) ~[na:na]
+	at de.woock.service.CheckService.bearbeiteAuftraege(CheckService.java:26) ~[main/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84) ~[spring-context-6.0.7.jar:6.0.7]
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54) ~[spring-context-6.0.7.jar:6.0.7]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[na:na]
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305) ~[na:na]
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[na:na]
+	at java.base/java.lang.Thread.run(Thread.java:833) ~[na:na]
+Caused by: java.net.UnknownHostException: Der angegebene Host ist unbekannt (rabbitmq)
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method) ~[na:na]
+	at java.base/java.net.InetAddress$PlatformNameService.lookupAllHostAddr(InetAddress.java:933) ~[na:na]
+	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1529) ~[na:na]
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:852) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1519) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1377) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1305) ~[na:na]
+	at com.rabbitmq.client.DnsRecordIpAddressResolver.resolveIpAddresses(DnsRecordIpAddressResolver.java:83) ~[amqp-client-5.16.0.jar:5.16.0]
+	at com.rabbitmq.client.DnsRecordIpAddressResolver.getAddresses(DnsRecordIpAddressResolver.java:73) ~[amqp-client-5.16.0.jar:5.16.0]
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:1219) ~[amqp-client-5.16.0.jar:5.16.0]
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:1173) ~[amqp-client-5.16.0.jar:5.16.0]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.connectAddresses(AbstractConnectionFactory.java:632) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.connect(AbstractConnectionFactory.java:607) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:557) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	... 23 common frames omitted
+
+2023-04-19T18:38:24.358+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : suche nach Auftraegen...
+2023-04-19T18:38:24.360+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : berechne Bonitaet für DeHänlein886
+2023-04-19T18:38:24.360+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : Bonitaet für DeHänlein886: GUT
+2023-04-19T18:38:24.360+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : sende Anwort für DeHänlein886
+2023-04-19T18:38:26.626+02:00 ERROR 18316 --- [scheduling-1] o.s.s.s.TaskUtils$LoggingErrorHandler    : Unexpected error occurred in scheduled task
+
+org.springframework.amqp.AmqpIOException: java.net.UnknownHostException: Der angegebene Host ist unbekannt (rabbitmq)
+	at org.springframework.amqp.rabbit.support.RabbitExceptionTranslator.convertRabbitAccessException(RabbitExceptionTranslator.java:70) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:594) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.CachingConnectionFactory.createConnection(CachingConnectionFactory.java:687) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.ConnectionFactoryUtils.createConnection(ConnectionFactoryUtils.java:257) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.doExecute(RabbitTemplate.java:2225) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.execute(RabbitTemplate.java:2198) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.send(RabbitTemplate.java:1119) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.convertAndSend(RabbitTemplate.java:1182) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.convertAndSend(RabbitTemplate.java:1175) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at de.woock.service.SchufaService.sendeAntwort(SchufaService.java:32) ~[main/:na]
+	at de.woock.service.CheckService.lambda$0(CheckService.java:32) ~[main/:na]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) ~[na:na]
+	at de.woock.service.CheckService.bearbeiteAuftraege(CheckService.java:26) ~[main/:na]
+	at jdk.internal.reflect.GeneratedMethodAccessor56.invoke(Unknown Source) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84) ~[spring-context-6.0.7.jar:6.0.7]
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54) ~[spring-context-6.0.7.jar:6.0.7]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[na:na]
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305) ~[na:na]
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[na:na]
+	at java.base/java.lang.Thread.run(Thread.java:833) ~[na:na]
+Caused by: java.net.UnknownHostException: Der angegebene Host ist unbekannt (rabbitmq)
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method) ~[na:na]
+	at java.base/java.net.InetAddress$PlatformNameService.lookupAllHostAddr(InetAddress.java:933) ~[na:na]
+	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1529) ~[na:na]
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:852) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1519) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1377) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1305) ~[na:na]
+	at com.rabbitmq.client.DnsRecordIpAddressResolver.resolveIpAddresses(DnsRecordIpAddressResolver.java:83) ~[amqp-client-5.16.0.jar:5.16.0]
+	at com.rabbitmq.client.DnsRecordIpAddressResolver.getAddresses(DnsRecordIpAddressResolver.java:73) ~[amqp-client-5.16.0.jar:5.16.0]
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:1219) ~[amqp-client-5.16.0.jar:5.16.0]
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:1173) ~[amqp-client-5.16.0.jar:5.16.0]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.connectAddresses(AbstractConnectionFactory.java:632) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.connect(AbstractConnectionFactory.java:607) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:557) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	... 22 common frames omitted
+
+2023-04-19T18:39:24.359+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : suche nach Auftraegen...
+2023-04-19T18:39:24.364+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : berechne Bonitaet für DeHänlein886
+2023-04-19T18:39:24.364+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : Bonitaet für DeHänlein886: GUT
+2023-04-19T18:39:24.364+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : sende Anwort für DeHänlein886
+2023-04-19T18:39:26.656+02:00 ERROR 18316 --- [scheduling-1] o.s.s.s.TaskUtils$LoggingErrorHandler    : Unexpected error occurred in scheduled task
+
+org.springframework.amqp.AmqpIOException: java.net.UnknownHostException: Der angegebene Host ist unbekannt (rabbitmq)
+	at org.springframework.amqp.rabbit.support.RabbitExceptionTranslator.convertRabbitAccessException(RabbitExceptionTranslator.java:70) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:594) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.CachingConnectionFactory.createConnection(CachingConnectionFactory.java:687) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.ConnectionFactoryUtils.createConnection(ConnectionFactoryUtils.java:257) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.doExecute(RabbitTemplate.java:2225) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.execute(RabbitTemplate.java:2198) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.send(RabbitTemplate.java:1119) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.convertAndSend(RabbitTemplate.java:1182) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.convertAndSend(RabbitTemplate.java:1175) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at de.woock.service.SchufaService.sendeAntwort(SchufaService.java:32) ~[main/:na]
+	at de.woock.service.CheckService.lambda$0(CheckService.java:32) ~[main/:na]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) ~[na:na]
+	at de.woock.service.CheckService.bearbeiteAuftraege(CheckService.java:26) ~[main/:na]
+	at jdk.internal.reflect.GeneratedMethodAccessor56.invoke(Unknown Source) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84) ~[spring-context-6.0.7.jar:6.0.7]
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54) ~[spring-context-6.0.7.jar:6.0.7]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[na:na]
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305) ~[na:na]
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[na:na]
+	at java.base/java.lang.Thread.run(Thread.java:833) ~[na:na]
+Caused by: java.net.UnknownHostException: Der angegebene Host ist unbekannt (rabbitmq)
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method) ~[na:na]
+	at java.base/java.net.InetAddress$PlatformNameService.lookupAllHostAddr(InetAddress.java:933) ~[na:na]
+	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1529) ~[na:na]
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:852) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1519) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1377) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1305) ~[na:na]
+	at com.rabbitmq.client.DnsRecordIpAddressResolver.resolveIpAddresses(DnsRecordIpAddressResolver.java:83) ~[amqp-client-5.16.0.jar:5.16.0]
+	at com.rabbitmq.client.DnsRecordIpAddressResolver.getAddresses(DnsRecordIpAddressResolver.java:73) ~[amqp-client-5.16.0.jar:5.16.0]
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:1219) ~[amqp-client-5.16.0.jar:5.16.0]
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:1173) ~[amqp-client-5.16.0.jar:5.16.0]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.connectAddresses(AbstractConnectionFactory.java:632) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.connect(AbstractConnectionFactory.java:607) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:557) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	... 22 common frames omitted
+
+2023-04-19T18:40:24.371+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : suche nach Auftraegen...
+2023-04-19T18:40:24.375+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : berechne Bonitaet für DeHänlein886
+2023-04-19T18:40:24.375+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : Bonitaet für DeHänlein886: SEHR_GUT
+2023-04-19T18:40:24.375+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : sende Anwort für DeHänlein886
+2023-04-19T18:40:26.650+02:00 ERROR 18316 --- [scheduling-1] o.s.s.s.TaskUtils$LoggingErrorHandler    : Unexpected error occurred in scheduled task
+
+org.springframework.amqp.AmqpIOException: java.net.UnknownHostException: Der angegebene Host ist unbekannt (rabbitmq)
+	at org.springframework.amqp.rabbit.support.RabbitExceptionTranslator.convertRabbitAccessException(RabbitExceptionTranslator.java:70) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:594) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.CachingConnectionFactory.createConnection(CachingConnectionFactory.java:687) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.ConnectionFactoryUtils.createConnection(ConnectionFactoryUtils.java:257) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.doExecute(RabbitTemplate.java:2225) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.execute(RabbitTemplate.java:2198) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.send(RabbitTemplate.java:1119) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.convertAndSend(RabbitTemplate.java:1182) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.convertAndSend(RabbitTemplate.java:1175) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at de.woock.service.SchufaService.sendeAntwort(SchufaService.java:32) ~[main/:na]
+	at de.woock.service.CheckService.lambda$0(CheckService.java:32) ~[main/:na]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) ~[na:na]
+	at de.woock.service.CheckService.bearbeiteAuftraege(CheckService.java:26) ~[main/:na]
+	at jdk.internal.reflect.GeneratedMethodAccessor56.invoke(Unknown Source) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84) ~[spring-context-6.0.7.jar:6.0.7]
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54) ~[spring-context-6.0.7.jar:6.0.7]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[na:na]
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305) ~[na:na]
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[na:na]
+	at java.base/java.lang.Thread.run(Thread.java:833) ~[na:na]
+Caused by: java.net.UnknownHostException: Der angegebene Host ist unbekannt (rabbitmq)
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method) ~[na:na]
+	at java.base/java.net.InetAddress$PlatformNameService.lookupAllHostAddr(InetAddress.java:933) ~[na:na]
+	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1529) ~[na:na]
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:852) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1519) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1377) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1305) ~[na:na]
+	at com.rabbitmq.client.DnsRecordIpAddressResolver.resolveIpAddresses(DnsRecordIpAddressResolver.java:83) ~[amqp-client-5.16.0.jar:5.16.0]
+	at com.rabbitmq.client.DnsRecordIpAddressResolver.getAddresses(DnsRecordIpAddressResolver.java:73) ~[amqp-client-5.16.0.jar:5.16.0]
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:1219) ~[amqp-client-5.16.0.jar:5.16.0]
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:1173) ~[amqp-client-5.16.0.jar:5.16.0]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.connectAddresses(AbstractConnectionFactory.java:632) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.connect(AbstractConnectionFactory.java:607) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:557) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	... 22 common frames omitted
+
+2023-04-19T18:41:24.362+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : suche nach Auftraegen...
+2023-04-19T18:41:24.366+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : berechne Bonitaet für DeHänlein886
+2023-04-19T18:41:24.366+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : Bonitaet für DeHänlein886: SCHLECHT
+2023-04-19T18:41:24.366+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : sende Anwort für DeHänlein886
+2023-04-19T18:41:26.654+02:00 ERROR 18316 --- [scheduling-1] o.s.s.s.TaskUtils$LoggingErrorHandler    : Unexpected error occurred in scheduled task
+
+org.springframework.amqp.AmqpIOException: java.net.UnknownHostException: Der angegebene Host ist unbekannt (rabbitmq)
+	at org.springframework.amqp.rabbit.support.RabbitExceptionTranslator.convertRabbitAccessException(RabbitExceptionTranslator.java:70) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:594) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.CachingConnectionFactory.createConnection(CachingConnectionFactory.java:687) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.ConnectionFactoryUtils.createConnection(ConnectionFactoryUtils.java:257) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.doExecute(RabbitTemplate.java:2225) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.execute(RabbitTemplate.java:2198) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.send(RabbitTemplate.java:1119) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.convertAndSend(RabbitTemplate.java:1182) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.convertAndSend(RabbitTemplate.java:1175) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at de.woock.service.SchufaService.sendeAntwort(SchufaService.java:32) ~[main/:na]
+	at de.woock.service.CheckService.lambda$0(CheckService.java:32) ~[main/:na]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) ~[na:na]
+	at de.woock.service.CheckService.bearbeiteAuftraege(CheckService.java:26) ~[main/:na]
+	at jdk.internal.reflect.GeneratedMethodAccessor56.invoke(Unknown Source) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84) ~[spring-context-6.0.7.jar:6.0.7]
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54) ~[spring-context-6.0.7.jar:6.0.7]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[na:na]
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305) ~[na:na]
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[na:na]
+	at java.base/java.lang.Thread.run(Thread.java:833) ~[na:na]
+Caused by: java.net.UnknownHostException: Der angegebene Host ist unbekannt (rabbitmq)
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method) ~[na:na]
+	at java.base/java.net.InetAddress$PlatformNameService.lookupAllHostAddr(InetAddress.java:933) ~[na:na]
+	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1529) ~[na:na]
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:852) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1519) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1377) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1305) ~[na:na]
+	at com.rabbitmq.client.DnsRecordIpAddressResolver.resolveIpAddresses(DnsRecordIpAddressResolver.java:83) ~[amqp-client-5.16.0.jar:5.16.0]
+	at com.rabbitmq.client.DnsRecordIpAddressResolver.getAddresses(DnsRecordIpAddressResolver.java:73) ~[amqp-client-5.16.0.jar:5.16.0]
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:1219) ~[amqp-client-5.16.0.jar:5.16.0]
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:1173) ~[amqp-client-5.16.0.jar:5.16.0]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.connectAddresses(AbstractConnectionFactory.java:632) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.connect(AbstractConnectionFactory.java:607) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:557) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	... 22 common frames omitted
+
+2023-04-19T18:42:24.357+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : suche nach Auftraegen...
+2023-04-19T18:42:24.359+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : berechne Bonitaet für DeHänlein886
+2023-04-19T18:42:24.359+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : Bonitaet für DeHänlein886: GUT
+2023-04-19T18:42:24.359+02:00  INFO 18316 --- [scheduling-1] de.woock.service.CheckService            : sende Anwort für DeHänlein886
+2023-04-19T18:42:26.649+02:00 ERROR 18316 --- [scheduling-1] o.s.s.s.TaskUtils$LoggingErrorHandler    : Unexpected error occurred in scheduled task
+
+org.springframework.amqp.AmqpIOException: java.net.UnknownHostException: Der angegebene Host ist unbekannt (rabbitmq)
+	at org.springframework.amqp.rabbit.support.RabbitExceptionTranslator.convertRabbitAccessException(RabbitExceptionTranslator.java:70) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:594) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.CachingConnectionFactory.createConnection(CachingConnectionFactory.java:687) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.ConnectionFactoryUtils.createConnection(ConnectionFactoryUtils.java:257) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.doExecute(RabbitTemplate.java:2225) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.execute(RabbitTemplate.java:2198) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.send(RabbitTemplate.java:1119) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.convertAndSend(RabbitTemplate.java:1182) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.core.RabbitTemplate.convertAndSend(RabbitTemplate.java:1175) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at de.woock.service.SchufaService.sendeAntwort(SchufaService.java:32) ~[main/:na]
+	at de.woock.service.CheckService.lambda$0(CheckService.java:32) ~[main/:na]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) ~[na:na]
+	at de.woock.service.CheckService.bearbeiteAuftraege(CheckService.java:26) ~[main/:na]
+	at jdk.internal.reflect.GeneratedMethodAccessor56.invoke(Unknown Source) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84) ~[spring-context-6.0.7.jar:6.0.7]
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54) ~[spring-context-6.0.7.jar:6.0.7]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[na:na]
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305) ~[na:na]
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[na:na]
+	at java.base/java.lang.Thread.run(Thread.java:833) ~[na:na]
+Caused by: java.net.UnknownHostException: Der angegebene Host ist unbekannt (rabbitmq)
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method) ~[na:na]
+	at java.base/java.net.InetAddress$PlatformNameService.lookupAllHostAddr(InetAddress.java:933) ~[na:na]
+	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1529) ~[na:na]
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:852) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1519) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1377) ~[na:na]
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1305) ~[na:na]
+	at com.rabbitmq.client.DnsRecordIpAddressResolver.resolveIpAddresses(DnsRecordIpAddressResolver.java:83) ~[amqp-client-5.16.0.jar:5.16.0]
+	at com.rabbitmq.client.DnsRecordIpAddressResolver.getAddresses(DnsRecordIpAddressResolver.java:73) ~[amqp-client-5.16.0.jar:5.16.0]
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:1219) ~[amqp-client-5.16.0.jar:5.16.0]
+	at com.rabbitmq.client.ConnectionFactory.newConnection(ConnectionFactory.java:1173) ~[amqp-client-5.16.0.jar:5.16.0]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.connectAddresses(AbstractConnectionFactory.java:632) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.connect(AbstractConnectionFactory.java:607) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	at org.springframework.amqp.rabbit.connection.AbstractConnectionFactory.createBareConnection(AbstractConnectionFactory.java:557) ~[spring-rabbit-3.0.3.jar:3.0.3]
+	... 22 common frames omitted
+
